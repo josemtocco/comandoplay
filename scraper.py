@@ -203,7 +203,11 @@ def resolve_brstream(watch_url: str) -> list[tuple[str, str]]:
                 seen.add(label)
                 unique.append((label, uri))
 
-        return unique if unique else [("auto", master_url)]
+        # Também devolve a página do player (alguns apps abrem em webview)
+        result = unique if unique else [("auto", master_url)]
+        # Coloca a versão WEB no final (menos prioritária)
+        result.append(("WEB", watch_url))
+        return result
     except Exception:
         return []
 
@@ -255,6 +259,11 @@ def extract_stream_url(page_html: str) -> list[tuple[str, str]]:
                 if "brstream.cc" in server_url or "watch.brstream" in server_url:
                     variants = resolve_brstream(server_url)
                     if variants:
+                        # Acrescenta os outros servidores como opções extras
+                        for s in ordered:
+                            if s != server_url and ("mixdrop" in s or "morencius" in s or "dood" in s):
+                                label = "Mixdrop" if "mixdrop" in s else ("Morencius" if "morencius" in s else "Alt")
+                                variants.append((label, s))
                         return variants
         except Exception:
             continue
@@ -371,13 +380,12 @@ def generate_m3u8(state):
         info_dict["name"] = name
         channels_list.append(info_dict)
 
-    # Ordena por grupo, nome base e qualidade (720p antes de 480p etc.)
     def sort_key(x):
         group = x.get("group", "Filmes")
         base = x.get("base_name", x.get("name", ""))
         q = x.get("quality", "auto")
         try:
-            q_num = -int(q.replace("p", ""))
+            q_num = -int(str(q).replace("p", ""))
         except ValueError:
             q_num = 0
         return (group, base, q_num)
@@ -386,24 +394,31 @@ def generate_m3u8(state):
 
     active_count = 0
     for ch in sorted_channels:
-        if not ch.get("stream_url"):
+        url = ch.get("stream_url")
+        if not url:
             continue
 
         logo = ch.get("logo", "")
         group = ch.get("group", "Filmes").replace('"', '\\"')
         name = ch["name"].replace('"', '\\"')
-        url = ch["stream_url"]
 
         extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}'
         lines.append(extinf)
         lines.append("#EXTSIZE: medium")
+
+        # Headers necessários para o CDN do brstream (VLC / players que suportam EXTVLCOPT)
+        if "watch.brstream.cc" in url or "brstream.cc" in url:
+            lines.append("#EXTVLCOPT:http-referrer=https://watch.brstream.cc/")
+            lines.append("#EXTVLCOPT:http-origin=https://watch.brstream.cc")
+            lines.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+
         lines.append(url)
         active_count += 1
 
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    print(f"Sucesso! {PLAYLIST_FILE} gerado com {active_count} entradas (todas as variantes).")
+    print(f"Sucesso! {PLAYLIST_FILE} gerado com {active_count} entradas (todas as variantes + headers).")
 
 
 def main():
