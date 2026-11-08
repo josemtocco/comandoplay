@@ -16,15 +16,6 @@ HEADERS = {
     "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
-# Hosters conhecidos usados pelo site (ordem de preferência)
-HOSTER_PATTERNS = [
-    r'https?://(?:www\.)?embedplay\.icu/[^\s"\'<>]+',
-    r'https?://(?:www\.)?mixdrop\.(?:top|co|ag|to|sx|bz|ch|gl|vc|ms|my|io|click)/[^\s"\'<>]+',
-    r'https?://(?:www\.)?morencius\.com/[^\s"\'<>]+',
-    r'https?://(?:www\.)?(?:dood|doodstream)\.(?:to|watch|so|pm|wf|re|yt|sh|la)/[^\s"\'<>]+',
-    r'https?://(?:www\.)?(?:streamtape|streamvid|filemoon|upstream|vidcloud|voe|lulustream)\.[^\s"\'<>]+',
-]
-
 SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
 
@@ -49,7 +40,7 @@ def scrape_channels():
     channels = []
     seen_urls = set()
     page = 1
-    max_empty = 2  # para de buscar após 2 páginas vazias seguidas
+    max_empty = 2
     empty_count = 0
 
     while True:
@@ -100,11 +91,9 @@ def scrape_channels():
                 continue
             seen_urls.add(full_url)
 
-            # Título
             name_tag = item.select_one("h2.movie-title")
             name = name_tag.get_text(strip=True) if name_tag else a.get("title") or "Filme Desconhecido"
 
-            # Logo (preferir data-src por causa do lazy-load)
             logo = ""
             img = item.find("img")
             if img:
@@ -112,7 +101,6 @@ def scrape_channels():
                 if logo.startswith("data:"):
                     logo = img.get("data-src") or ""
 
-            # Qualidade / grupo
             quality_tag = item.select_one(".item-quality")
             quality = quality_tag.get_text(strip=True) if quality_tag else ""
             group = quality if quality else "Filmes"
@@ -127,77 +115,188 @@ def scrape_channels():
         print(f"  → {len(page_channels)} filmes nesta página (total acumulado: {len(channels) + len(page_channels)})")
         channels.extend(page_channels)
         page += 1
-
-        # Pequena pausa para não sobrecarregar o servidor
-        time.sleep(0.4)
+        time.sleep(0.35)
 
     return channels
 
 
-def extract_stream_url(html: str) -> str | None:
-    """Extrai a melhor URL de hoster/stream da página do filme."""
-    # 1) Tenta achar links de hosters conhecidos
-    found = []
-    for pattern in HOSTER_PATTERNS:
-        matches = re.findall(pattern, html, re.IGNORECASE)
-        found.extend(matches)
+def resolve_brstream(watch_url: str) -> str | None:
+    """A partir de uma URL watch.brstream.cc, extrai a variante 720p (ou a de maior qualidade)."""
+    try:
+        r = SESSION.get(watch_url, timeout=15)
+        r.raise_for_status()
+        html = r.text
 
-    if found:
-        # Preferir o que estiver marcado como PRINCIPAL se possível
-        principal = re.search(
-            r'href=["\']([^"\']+)["\'][^>]*>\s*PRINCIPAL',
-            html,
-            re.IGNORECASE,
+        m = re.search(r'var\s+video\s*=\s*(\{.*?\});', html, re.S)
+        if not m:
+            return None
+
+        vid = m.group(1)
+        uid = re.search(r'"uid"\s*:\s*"([^"]+)"', vid)
+        md5 = re.search(r'"md5"\s*:\s*"([^"]+)"', vid)
+        vid_id = re.search(r'"id"\s*:\s*"([^"]+)"', vid)
+
+        if not (uid and md5 and vid_id):
+            return None
+
+        master_url = (
+            f"https://watch.brstream.cc/m3u8/{uid.group(1)}/{md5.group(1)}"
+            f"/master.txt?s=1&id={vid_id.group(1)}&cache=1"
         )
-        if principal:
-            return principal.group(1)
 
-        # Caso contrário, o primeiro da lista de preferência
-        return found[0]
+        r2 = SESSION.get(master_url, timeout=10)
+        if r2.status_code != 200 or not r2.text.lstrip().startswith("#EXTM3U"):
+            return master_url  # fallback para o master
 
-    # 2) Fallback: qualquer .m3u8 / .mp4
-    video_pattern = re.compile(
-        r'(https?://[^\s\'"<>]+?\.(?:m3u8?|mp4)(?:\?[^\s\'"<>]*)?)',
+        # Escolhe a variante 720p; se não existir, pega a de maior BANDWIDTH
+        lines = r2.text.splitlines()
+        best_uri = None
+        best_bw = -1
+        prefer_720 = None
+
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            if line.startswith("#EXT-X-STREAM-INF:"):
+                bw_m = re.search(r"BANDWIDTH=(\d+)", line)
+                res_m = re.search(r"RESOLUTION=\d+x(\d+)", line)
+                bw = int(bw_m.group(1)) if bw_m else 0
+                height = res_m.group(1) if res_m else None
+
+                # próxima linha não-comentário = URI
+                j = i + 1
+                while j < len(lines) and (lines[j].startswith("#") or not lines[j].strip()):
+                    j += 1
+                if j >= len(lines):
+                    i += 1
+                    continue
+                uri = lines[j].strip()
+                if uri.startswith("/"):
+                    uri = "https://watch.brstream.cc" + uri
+
+                if height == "720":
+                    prefer_720 = uri
+                if bw > best_bw:
+                    best_bw = bw
+                    best_uri = uri
+            i += 1
+
+        return prefer_720 or best_uri or master_url
+    except Exception:
+        return None
+
+
+def extract_stream_url(page_html: str) -> str | None:
+    """
+    Cadeia de resolução:
+    1. Página do filme → embedplay.icu (ou links diretos de hosters)
+    2. Página embedplay → lista de servidores (playVideo)
+    3. Servidor PRINCIPAL (preferencialmente brstream) → variante 720p
+    """
+    # --- 1. Procurar embedplay ---
+    embed_urls = re.findall(
+        r'https?://(?:www\.)?embedplay\.icu/player\.php\?id=[a-f0-9]+',
+        page_html,
         re.IGNORECASE,
     )
-    m3u8_urls = video_pattern.findall(html)
-    if m3u8_urls:
-        return m3u8_urls[0]
+
+    # Também capturar outros hosters que possam aparecer direto
+    other_hosters = re.findall(
+        r'https?://(?:www\.)?(?:mixdrop|morencius|dood|streamtape|filemoon)\.[^\s"\'<>]+',
+        page_html,
+        re.IGNORECASE,
+    )
+
+    candidates = []
+
+    # Prioridade: embedplay
+    for embed in embed_urls:
+        try:
+            r = SESSION.get(embed, timeout=12)
+            if r.status_code != 200:
+                continue
+            html = r.text
+
+            # Extrai todos os playVideo('URL')
+            servers = re.findall(r"playVideo\(['\"]([^'\"]+)['\"]\)", html)
+
+            # Tenta achar o marcado como PRINCIPAL
+            principal_m = re.search(
+                r"playVideo\(['\"]([^'\"]+)['\"]\)[^>]*>\s*PRINCIPAL",
+                html,
+                re.IGNORECASE,
+            )
+            ordered = []
+            if principal_m:
+                ordered.append(principal_m.group(1))
+            for s in servers:
+                if s not in ordered:
+                    ordered.append(s)
+
+            for server_url in ordered:
+                if "brstream.cc" in server_url or "watch.brstream" in server_url:
+                    master = resolve_brstream(server_url)
+                    if master:
+                        return master  # sucesso com stream 720p
+                else:
+                    # Guarda outros hosters como fallback
+                    candidates.append(server_url)
+        except Exception:
+            continue
+
+    # Se chegou aqui, tenta qualquer hoster restante
+    candidates.extend(other_hosters)
+    if candidates:
+        return candidates[0]
+
+    # Último recurso: qualquer .m3u8/.mp4 na página original
+    direct = re.findall(
+        r'(https?://[^\s\'"<>]+?\.(?:m3u8?|mp4)(?:\?[^\s\'"<>]*)?)',
+        page_html,
+        re.IGNORECASE,
+    )
+    if direct:
+        return direct[0]
 
     return None
 
 
 def validate_stream(url: str) -> bool:
-    """
-    Validação leve:
-    - Para hosters conhecidos: considera ativo se a URL for bem formada.
-    - Para .m3u8/.mp4: tenta HEAD/GET e verifica Content-Type.
-    """
+    """Valida se a URL parece ser um stream utilizável."""
     if not url:
         return False
 
-    # Hosters: não fazemos HEAD pesado (muitos bloqueiam ou usam JS)
+    # URLs do brstream (master ou variante 720p/480p/etc.)
+    if "watch.brstream.cc/" in url and ("/m3u8/" in url or "/stream/" in url):
+        try:
+            r = SESSION.get(url, timeout=10, allow_redirects=True)
+            if r.status_code == 200 and r.text.lstrip().startswith("#EXTM3U"):
+                return True
+            return r.status_code == 200
+        except Exception:
+            return True
+
+    # Outros hosters: aceita se a URL for bem formada
     hoster_domains = (
         "mixdrop", "morencius", "embedplay", "dood", "streamtape",
-        "filemoon", "upstream", "vidcloud", "voe", "lulustream", "streamvid",
+        "filemoon", "upstream", "vidcloud", "voe", "lulustream", "brstream",
     )
     if any(d in url.lower() for d in hoster_domains):
         return True
 
+    # Direto m3u8/mp4
     try:
-        res = SESSION.head(url, timeout=10, allow_redirects=True)
-        if res.status_code == 405 or not res.headers.get("Content-Type"):
-            test_headers = {**HEADERS, "Range": "bytes=0-1024"}
-            res = SESSION.get(url, headers=test_headers, timeout=10, stream=True)
-
-        content_type = res.headers.get("Content-Type", "").lower()
-        if "video/" in content_type or "mpegurl" in content_type:
+        r = SESSION.head(url, timeout=8, allow_redirects=True)
+        if r.status_code == 405 or not r.headers.get("Content-Type"):
+            r = SESSION.get(url, headers={**HEADERS, "Range": "bytes=0-1024"}, timeout=8, stream=True)
+        ct = r.headers.get("Content-Type", "").lower()
+        if "video/" in ct or "mpegurl" in ct:
             return True
-        if "octet-stream" in content_type and re.search(r"\.mp4(\?|$)", url, re.I):
+        if "octet-stream" in ct and re.search(r"\.mp4(\?|$)", url, re.I):
             return True
-        return False
     except Exception:
-        return False
+        pass
+    return False
 
 
 def process_scraped_channel(channel_info):
@@ -247,7 +346,6 @@ def generate_m3u8(state):
         info_dict["name"] = name
         channels_list.append(info_dict)
 
-    # Ordena por grupo e depois por nome
     sorted_channels = sorted(
         channels_list,
         key=lambda x: (x.get("group", "Filmes"), x.get("name", "")),
@@ -289,15 +387,14 @@ def main():
     for ch in scraped_channels:
         tasks.append(("scraped", ch))
 
-    # Mantém canais antigos que sumiram do site (caso ainda estejam ativos)
     for name, info in state.items():
         if name not in scraped_names:
             tasks.append(("existing", {"name": name, "info": info}))
 
-    print(f"Processando {len(tasks)} itens (extração de stream + validação)...")
+    print(f"Processando {len(tasks)} itens (resolução da variante 720p + validação)...")
     new_state = {}
 
-    with ThreadPoolExecutor(max_workers=12) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         future_to_task = {}
         for task in tasks:
             if task[0] == "scraped":
@@ -312,7 +409,7 @@ def main():
         for future in as_completed(future_to_task):
             result = future.result()
             done += 1
-            if done % 50 == 0 or done == len(tasks):
+            if done % 30 == 0 or done == len(tasks):
                 print(f"  Progresso: {done}/{len(tasks)}")
 
             if result["is_active"] and result["stream_url"]:
@@ -323,7 +420,7 @@ def main():
                     "page_url": result["page_url"],
                 }
 
-    print(f"Mantidos {len(new_state)} filmes com stream válido.")
+    print(f"Mantidos {len(new_state)} filmes com stream 720p válido.")
     save_state(new_state)
     generate_m3u8(new_state)
 
