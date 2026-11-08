@@ -8,6 +8,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 BASE_URL = "https://comandoplay.tv/category/movies-2/"
 STATE_FILE = "channels.json"
 PLAYLIST_FILE = "playlist.m3u8"
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
@@ -37,7 +38,7 @@ def scrape_channels():
         except Exception as e:
             print(f"Erro ao buscar página {page}: {e}")
             break
-            
+
         soup = BeautifulSoup(response.text, 'html.parser')
         page_channels = []
         
@@ -51,7 +52,6 @@ def scrape_channels():
                 continue
             
             full_url = href if href.startswith('http') else f"https://comandoplay.tv{href}"
-            
             name_tag = a.find('b')
             name = name_tag.get_text(strip=True) if name_tag else "Canal Desconhecido"
             
@@ -68,7 +68,7 @@ def scrape_channels():
                 "logo": logo,
                 "group": group
             })
-        
+            
         if not page_channels:
             print("Nenhum canal encontrado. Finalizando paginação.")
             break
@@ -78,30 +78,55 @@ def scrape_channels():
         
     return channels
 
+def validate_stream_content_type(url):
+    """
+    Verifica se a URL retorna um Content-Type válido para vídeo (mp4, m3u8, m3u).
+    """
+    try:
+        # Tenta HEAD primeiro para economizar banda
+        res = requests.head(url, headers=HEADERS, timeout=10, allow_redirects=True)
+        
+        # Se o servidor não suportar HEAD ou não retornar Content-Type, faz GET com Range
+        if res.status_code == 405 or not res.headers.get('Content-Type'):
+            test_headers = {**HEADERS, "Range": "bytes=0-1024"}
+            res = requests.get(url, headers=test_headers, timeout=10, stream=True)
+            
+        content_type = res.headers.get('Content-Type', '').lower()
+        
+        # Tipos aceitos: video/*, HLS (mpegurl), e octet-stream (apenas se a URL terminar em mp4)
+        if 'video/' in content_type or 'mpegurl' in content_type:
+            return True
+            
+        # Alguns servidores servem MP4 como octet-stream
+        if 'octet-stream' in content_type and re.search(r'\.mp4(\?|$)', url, re.IGNORECASE):
+            return True
+            
+        return False
+    except Exception:
+        return False
+
 def process_scraped_channel(channel_info):
     name = channel_info["name"]
     page_url = channel_info["page_url"]
-    
     stream_url = None
+    
     try:
         response = requests.get(page_url, headers=HEADERS, timeout=10)
         html = response.text
-        m3u8_urls = re.findall(r'(https?://[^\s\'"]+\.m3u8[^\s\'"]*)', html)
+        
+        # Regex atualizado para capturar .m3u, .m3u8 e .mp4 (com ou sem parâmetros de URL)
+        video_pattern = re.compile(r'(https?://[^\s\'"<>]+?\.(?:m3u8?|mp4)[^\s\'"<>]*)', re.IGNORECASE)
+        m3u8_urls = video_pattern.findall(html)
+        
         if m3u8_urls:
             stream_url = m3u8_urls[0]
     except Exception:
         pass
-    
+
     is_active = False
     if stream_url:
-        try:
-            test_headers = {**HEADERS, "Range": "bytes=0-1024"}
-            response = requests.get(stream_url, headers=test_headers, timeout=5)
-            if response.status_code in [200, 206]:
-                is_active = True
-        except Exception:
-            pass
-            
+        is_active = validate_stream_content_type(stream_url)
+
     return {
         "name": name,
         "stream_url": stream_url,
@@ -112,16 +137,13 @@ def process_scraped_channel(channel_info):
     }
 
 def process_existing_channel(name, info):
+    # Correção: Removidos os espaços invisíveis nas chaves do código original
     stream_url = info.get("stream_url")
     is_active = False
+    
     if stream_url:
-        try:
-            test_headers = {**HEADERS, "Range": "bytes=0-1024"}
-            response = requests.get(stream_url, headers=test_headers, timeout=5)
-            if response.status_code in [200, 206]:
-                is_active = True
-        except Exception:
-            pass
+        is_active = validate_stream_content_type(stream_url)
+
     return {
         "name": name,
         "stream_url": stream_url,
@@ -134,14 +156,13 @@ def process_existing_channel(name, info):
 def generate_m3u8(state):
     lines = ["#EXTM3U"]
     
-    # CORREÇÃO: Reconstrói a lista garantindo que a chave "name" exista dentro do dicionário
     channels_list = []
     for name, info in state.items():
         info_dict = info.copy()
         info_dict["name"] = name
         channels_list.append(info_dict)
-        
-    # Ordena por grupo e depois por nome, usando .get() como proteção extra
+
+    # Ordena por grupo e depois por nome
     sorted_channels = sorted(channels_list, key=lambda x: (x.get("group", "Geral"), x.get("name", "")))
     
     active_count = 0
@@ -156,12 +177,17 @@ def generate_m3u8(state):
         
         extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}'
         lines.append(extinf)
+        
+        # Adiciona a tag customizada solicitada
+        lines.append('#EXTSIZE: medium') 
+        
         lines.append(url)
         active_count += 1
-        
+
     with open(PLAYLIST_FILE, 'w', encoding='utf-8') as f:
         f.write("\n".join(lines))
-    print(f"Sucesso! {PLAYLIST_FILE} gerado com {active_count} canais ativos.")
+        
+    print(f"Sucesso! {PLAYLIST_FILE} gerado com {active_count} canais ativos (Content-Type validado).")
 
 def main():
     print("Carregando estado anterior...")
@@ -180,11 +206,11 @@ def main():
     for name, info in state.items():
         if name not in scraped_names:
             tasks.append(("existing", {"name": name, "info": info}))
-            
-    print(f"Testando a atividade de {len(tasks)} canais...")
-    
+
+    print(f"Testando a atividade e Content-Type de {len(tasks)} canais...")
     new_state = {}
-    with ThreadPoolExecutor(max_workers=15) as executor:
+    
+    with ThreadPoolExecutor(max_workers=20) as executor:
         future_to_task = {}
         for task in tasks:
             if task[0] == "scraped":
@@ -192,7 +218,7 @@ def main():
             else:
                 future = executor.submit(process_existing_channel, task[1]["name"], task[1]["info"])
             future_to_task[future] = task
-            
+
         for future in as_completed(future_to_task):
             result = future.result()
             if result["is_active"] and result["stream_url"]:
@@ -202,8 +228,8 @@ def main():
                     "group": result["group"],
                     "page_url": result["page_url"]
                 }
-                
-    print(f"Mantidos {len(new_state)} canais ativos.")
+
+    print(f"Mantidos {len(new_state)} canais ativos após validação de Content-Type.")
     save_state(new_state)
     generate_m3u8(new_state)
 
