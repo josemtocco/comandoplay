@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/eC2UukCBZXIhz5EEC71Y5we2kYO.jpg" group-title="BLU-RAY",Charlie em Ação
+#EXTSIZE: medium
+https://streamtape.com/v/OW9r0byZXGigO9/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/uSoAAhTJTbUWwo2LBcT07M2QOop.jpg" group-title="WEB-DL",10 Dias de um Homem Curioso
+#EXTSIZE: medium
+https://streamtape.com/v/xmRVG6QbyvukOeb/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7OhsKXY8CV4uAdrc82sGgpGXUNc.jpg" group-title="WEB-DL",A Casa no Bayou [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -29,60 +35,6 @@ https://mixdrop.top/e/pjj4vn9mbv7077
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7OhsKXY8CV4uAdrc82sGgpGXUNc.jpg" group-title="WEB-DL",A Casa no Bayou [Morencius]
 #EXTSIZE: medium
 https://morencius.com/e/kdhqtfffxk6y
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/oLrpALaHOuTIgc4xyCCD8nwAmHo.jpg" group-title="WEB-DL",A Colecionadora: Você é o Próximo [720p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9mNTlhNGY1OGJlYzc1NWRmMzU0NTdhOTBhMGU2NWVkNC83MjBwLzcyMHAubTN1OD9pZD00MjA5MQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/oLrpALaHOuTIgc4xyCCD8nwAmHo.jpg" group-title="WEB-DL",A Colecionadora: Você é o Próximo [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9mNTlhNGY1OGJlYzc1NWRmMzU0NTdhOTBhMGU2NWVkNC80ODBwLzQ4MHAubTN1OD9pZD00MjA5MQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/oLrpALaHOuTIgc4xyCCD8nwAmHo.jpg" group-title="WEB-DL",A Colecionadora: Você é o Próximo [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9mNTlhNGY1OGJlYzc1NWRmMzU0NTdhOTBhMGU2NWVkNC8yNDBwLzI0MHAubTN1OD9pZD00MjA5MQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/oLrpALaHOuTIgc4xyCCD8nwAmHo.jpg" group-title="WEB-DL",A Colecionadora: Você é o Próximo [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=XH5KYI2G
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/oLrpALaHOuTIgc4xyCCD8nwAmHo.jpg" group-title="WEB-DL",A Colecionadora: Você é o Próximo [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/1nn4wxxdukxr66x
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jYFaFJPg79ngwBrxjQw4aThzen4.jpg" group-title="WEB-DL",A Disputa [720p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC81NWE3NzI0NDA1NmMyOWMxNzBiNTE5NGJiYjkxY2I1OS83MjBwLzcyMHAubTN1OD9pZD00MjA3Ng==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jYFaFJPg79ngwBrxjQw4aThzen4.jpg" group-title="WEB-DL",A Disputa [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC81NWE3NzI0NDA1NmMyOWMxNzBiNTE5NGJiYjkxY2I1OS80ODBwLzQ4MHAubTN1OD9pZD00MjA3Ng==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jYFaFJPg79ngwBrxjQw4aThzen4.jpg" group-title="WEB-DL",A Disputa [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC81NWE3NzI0NDA1NmMyOWMxNzBiNTE5NGJiYjkxY2I1OS8yNDBwLzI0MHAubTN1OD9pZD00MjA3Ng==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jYFaFJPg79ngwBrxjQw4aThzen4.jpg" group-title="WEB-DL",A Disputa [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=ZA68X374
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jYFaFJPg79ngwBrxjQw4aThzen4.jpg" group-title="WEB-DL",A Disputa [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/nllxo9xwi4lowr
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8nbLEajV2HU79HNuAaO4ll3L5M8.jpg" group-title="WEB-DL",A Estrela de Cinema e o Cowboy [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -113,36 +65,15 @@ https://mixdrop.top/e/k00w1e43irvjg9
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8nbLEajV2HU79HNuAaO4ll3L5M8.jpg" group-title="WEB-DL",A Estrela de Cinema e o Cowboy [Morencius]
 #EXTSIZE: medium
 https://morencius.com/e/677ahy3wia75
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4PpaTlM3cgjfGZJi0Trefjax01L.jpg" group-title="WEB-DL",Alta Gama: O Caso dos Relógios [720p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/m6Hc2Ta5PiMaqMLeudG9dOIAAOp.jpg" group-title="WEB-DL",A Menina e o Dragão
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC81NTI3MTIzZjVhMzVhMDI0YzBmM2JmNDY4OWU3NmU3Yi83MjBwLzcyMHAubTN1OD9pZD00MjA5OQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4PpaTlM3cgjfGZJi0Trefjax01L.jpg" group-title="WEB-DL",Alta Gama: O Caso dos Relógios [480p]
+https://streamtape.com/v/rDOl67JyQjTbq8b/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/x5z1J5P7MugMtpPLSBa9SBJMMZV.jpg" group-title="WEB-DL",A Última Onça Negra
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC81NTI3MTIzZjVhMzVhMDI0YzBmM2JmNDY4OWU3NmU3Yi80ODBwLzQ4MHAubTN1OD9pZD00MjA5OQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4PpaTlM3cgjfGZJi0Trefjax01L.jpg" group-title="WEB-DL",Alta Gama: O Caso dos Relógios [240p]
+https://streamtape.com/v/XwdmXqjQwPfD9oj/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/tVF3HSW60EdOxyJQVwfscZx3dzW.jpg" group-title="WEB-DL",Além do Tempo
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC81NTI3MTIzZjVhMzVhMDI0YzBmM2JmNDY4OWU3NmU3Yi8yNDBwLzI0MHAubTN1OD9pZD00MjA5OQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4PpaTlM3cgjfGZJi0Trefjax01L.jpg" group-title="WEB-DL",Alta Gama: O Caso dos Relógios [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=HQ1LGE4P
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4PpaTlM3cgjfGZJi0Trefjax01L.jpg" group-title="WEB-DL",Alta Gama: O Caso dos Relógios [Morencius]
-#EXTSIZE: medium
-https://morencius.com/e/82jvgg3bglq0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4PpaTlM3cgjfGZJi0Trefjax01L.jpg" group-title="WEB-DL",Alta Gama: O Caso dos Relógios [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/677pmrp7uleeg4
+https://streamtape.com/v/17BbxAqjg1ir6W/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4Pbzvtg7L0Rj37jVG4I1IOTdghL.jpg" group-title="WEB-DL",Amor Possível [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -173,36 +104,18 @@ https://morencius.com/e/s1yen18b8sof
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4Pbzvtg7L0Rj37jVG4I1IOTdghL.jpg" group-title="WEB-DL",Amor Possível [Mixdrop]
 #EXTSIZE: medium
 https://mixdrop.top/e/k00wp404i3djdq6
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg" group-title="WEB-DL",Assassinos Sádicos [720p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hSNeollK2tu2yKLjsgGVejP4K21.jpg" group-title="WEB-DL",Apenas Amigos
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC84NmNiYjdkYmE4MDRiNmMzNGYxZjI1MWU0ODY5YjQ3OS83MjBwLzcyMHAubTN1OD9pZD00MjEwMQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg" group-title="WEB-DL",Assassinos Sádicos [480p]
+https://streamtape.com/v/74BOYyRdQdtAzDw/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/yk8ALQPd3lfYDGJ8U429oYFiBaY.jpg" group-title="WEB-DL",Arena Mortal
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC84NmNiYjdkYmE4MDRiNmMzNGYxZjI1MWU0ODY5YjQ3OS80ODBwLzQ4MHAubTN1OD9pZD00MjEwMQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg" group-title="WEB-DL",Assassinos Sádicos [240p]
+https://streamtape.com/v/01bq38OA0wubqow/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/sueXh8ZMYUO5VfEjAbx1D5CgMU7.jpg" group-title="WEB-DL",As Crianças Perdidas
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC84NmNiYjdkYmE4MDRiNmMzNGYxZjI1MWU0ODY5YjQ3OS8yNDBwLzI0MHAubTN1OD9pZD00MjEwMQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg" group-title="WEB-DL",Assassinos Sádicos [WEB]
+https://streamtape.com/v/vo1bamk0DlI4xJ9/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/6TKhFSJW09z2k6WPxB10ey2GMuC.jpg" group-title="WEB-DL",Banidos
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=2FKSJOT5
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg" group-title="WEB-DL",Assassinos Sádicos [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/8ll1rl8vtjloo3
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg" group-title="WEB-DL",Assassinos Sádicos [Morencius]
-#EXTSIZE: medium
-https://morencius.com/e/wzogch9ub2kc
+https://streamtape.com/v/re7qRdmm11hbp9G/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/q6aFCnk1XH1m9onmlxbEGI3vT9W.jpg" group-title="WEB-DL",Bom Dia, Natal! [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -263,60 +176,15 @@ https://mixdrop.top/e/gjj0z44etwderj1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/s3n3swgSLQzTZSZsnUueQBBnvTy.jpg" group-title="WEB-DL",Como Casar com um Milionário [Morencius]
 #EXTSIZE: medium
 https://morencius.com/e/npxdjdlya8du
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg" group-title="WEB-DL",Coração Selvagem [720p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/cDrH885aF4cWcFvW4bYO5phBitd.jpg" group-title="WEB-DL",Conexões Perigosas
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC8zZTMyZGUzMmI4Y2YyZjNkOGU3MmVjZmNmOTlkYWVlMS83MjBwLzcyMHAubTN1OD9pZD00MjA5Mg==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg" group-title="WEB-DL",Coração Selvagem [480p]
+https://streamtape.com/v/YDvXw9jzaDivPpQ/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg" group-title="WEB-DL",Cuckoo: O Medo Chama
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC8zZTMyZGUzMmI4Y2YyZjNkOGU3MmVjZmNmOTlkYWVlMS80ODBwLzQ4MHAubTN1OD9pZD00MjA5Mg==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg" group-title="WEB-DL",Coração Selvagem [240p]
+https://streamtape.com/v/my14p7e6KgHbWzB/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/yJxL52rks4nFtrSPb6Y66N4AyRE.jpg" group-title="WEB-DL",Câmera Mortal
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC8zZTMyZGUzMmI4Y2YyZjNkOGU3MmVjZmNmOTlkYWVlMS8yNDBwLzI0MHAubTN1OD9pZD00MjA5Mg==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg" group-title="WEB-DL",Coração Selvagem [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=1GD46TLX
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg" group-title="WEB-DL",Coração Selvagem [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/r66pvvklhrqklq
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg" group-title="WEB-DL",Crime em Cena [720p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iNGQwNTA5ZWQ0YTE3MTQ0NjYyMDRjMGIzMGRlM2Y2Mi83MjBwLzcyMHAubTN1OD9pZD00MjA4Mg==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg" group-title="WEB-DL",Crime em Cena [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iNGQwNTA5ZWQ0YTE3MTQ0NjYyMDRjMGIzMGRlM2Y2Mi80ODBwLzQ4MHAubTN1OD9pZD00MjA4Mg==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg" group-title="WEB-DL",Crime em Cena [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iNGQwNTA5ZWQ0YTE3MTQ0NjYyMDRjMGIzMGRlM2Y2Mi8yNDBwLzI0MHAubTN1OD9pZD00MjA4Mg==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg" group-title="WEB-DL",Crime em Cena [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=6YH9S805
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg" group-title="WEB-DL",Crime em Cena [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/wllmzv9mhwxq89
+https://streamtape.com/v/gjWg9bbV1ehqQQB/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/prtj1gy8LjO2JmVGMfTjyzinTKA.jpg" group-title="WEB-DL",Desprotegida: O Crime de Pazos [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -347,9 +215,36 @@ https://mixdrop.top/e/9ww1vmo4udx907
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/prtj1gy8LjO2JmVGMfTjyzinTKA.jpg" group-title="WEB-DL",Desprotegida: O Crime de Pazos [Morencius]
 #EXTSIZE: medium
 https://morencius.com/e/mllonxiksnmz
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lw7J55hRYXF0LC0ZxgRWvMQkMLv.jpg" group-title="WEB-DL",Estrada Para o Natal
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lwyqG9gOYzFD7ZYOXnsp64yaJmp.jpg" group-title="WEB-DL",Engolidos
 #EXTSIZE: medium
-https://mixdrop.top/f/wllk3llounqkgr
+https://streamtape.com/v/xy1bDR8WwyhkMLz/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lw7J55hRYXF0LC0ZxgRWvMQkMLv.jpg" group-title="WEB-DL",Estrada Para o Natal [720p]
+#EXTSIZE: medium
+#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
+#EXTVLCOPT:http-origin=https://watch.brstream.cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://watch.brstream.cc/stream/bTN1OC8xMC9iMjMxNzc1Y2Q1MjYzMzc4NTMwMTljZWYxZWFiMmIzYy83MjBwLzcyMHAubTN1OD9pZD00MjE0MA==
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lw7J55hRYXF0LC0ZxgRWvMQkMLv.jpg" group-title="WEB-DL",Estrada Para o Natal [480p]
+#EXTSIZE: medium
+#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
+#EXTVLCOPT:http-origin=https://watch.brstream.cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://watch.brstream.cc/stream/bTN1OC8xMC9iMjMxNzc1Y2Q1MjYzMzc4NTMwMTljZWYxZWFiMmIzYy80ODBwLzQ4MHAubTN1OD9pZD00MjE0MA==
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lw7J55hRYXF0LC0ZxgRWvMQkMLv.jpg" group-title="WEB-DL",Estrada Para o Natal [240p]
+#EXTSIZE: medium
+#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
+#EXTVLCOPT:http-origin=https://watch.brstream.cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://watch.brstream.cc/stream/bTN1OC8xMC9iMjMxNzc1Y2Q1MjYzMzc4NTMwMTljZWYxZWFiMmIzYy8yNDBwLzI0MHAubTN1OD9pZD00MjE0MA==
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lw7J55hRYXF0LC0ZxgRWvMQkMLv.jpg" group-title="WEB-DL",Estrada Para o Natal [WEB]
+#EXTSIZE: medium
+#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
+#EXTVLCOPT:http-origin=https://watch.brstream.cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://watch.brstream.cc/watch?v=CUTQLBZF
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lw7J55hRYXF0LC0ZxgRWvMQkMLv.jpg" group-title="WEB-DL",Estrada Para o Natal [Mixdrop]
+#EXTSIZE: medium
+https://mixdrop.top/e/wllk3llounqkgr
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8xAR06zA2ZcCpWentnWuWaLDIxB.jpg" group-title="WEB-DL",Família [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -377,87 +272,18 @@ https://watch.brstream.cc/watch?v=09O4QTZN
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8xAR06zA2ZcCpWentnWuWaLDIxB.jpg" group-title="WEB-DL",Família [Mixdrop]
 #EXTSIZE: medium
 https://mixdrop.top/e/oww48gg7hm1vlg
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/64upOrgNEQ4cyNTInwXo0gBkaaZ.jpg" group-title="WEB-DL",Finja-se de Morto [720p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/c4g82ZjkSJXAUnzxfU7yRW8V3dl.jpg" group-title="WEB-DL",Feitos de Plástico
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iYTdhOTY0ZTEzMTlkNWIxYjNiMWU5ZmFlNzVlODZkYi83MjBwLzcyMHAubTN1OD9pZD00MjA4MA==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/64upOrgNEQ4cyNTInwXo0gBkaaZ.jpg" group-title="WEB-DL",Finja-se de Morto [480p]
+https://streamtape.com/v/GveX2Lq8pvh1rlA/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/ehWX8KcjL138ztz56c3Gfd00aUX.jpg" group-title="WEB-DL",Fúria Sem Limites
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iYTdhOTY0ZTEzMTlkNWIxYjNiMWU5ZmFlNzVlODZkYi80ODBwLzQ4MHAubTN1OD9pZD00MjA4MA==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/64upOrgNEQ4cyNTInwXo0gBkaaZ.jpg" group-title="WEB-DL",Finja-se de Morto [240p]
+https://streamtape.com/v/r8mO4p3xYBiMO6/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zVtQgPN7KZn4f9oE2nVFVYx4Hqw.jpg" group-title="WEB-DL",Grande Sertão
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iYTdhOTY0ZTEzMTlkNWIxYjNiMWU5ZmFlNzVlODZkYi8yNDBwLzI0MHAubTN1OD9pZD00MjA4MA==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/64upOrgNEQ4cyNTInwXo0gBkaaZ.jpg" group-title="WEB-DL",Finja-se de Morto [WEB]
+https://streamtape.com/v/DXoWAaPw9rf6Gr/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/pk1gAWIAWMsNMvX15eu3KXAwpRu.jpg" group-title="WEB-DL",Homens Maus
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=H4KVNSZC
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/64upOrgNEQ4cyNTInwXo0gBkaaZ.jpg" group-title="WEB-DL",Finja-se de Morto [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/xwwqkqveiqpg8k
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg" group-title="WEB-DL",Frequência Explosiva [720p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9mMTRjZjA2OTA2MTg5YjU0YWY3MjMzNTg4ZjRmMmMwNi83MjBwLzcyMHAubTN1OD9pZD00MjA4NA==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg" group-title="WEB-DL",Frequência Explosiva [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9mMTRjZjA2OTA2MTg5YjU0YWY3MjMzNTg4ZjRmMmMwNi80ODBwLzQ4MHAubTN1OD9pZD00MjA4NA==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg" group-title="WEB-DL",Frequência Explosiva [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9mMTRjZjA2OTA2MTg5YjU0YWY3MjMzNTg4ZjRmMmMwNi8yNDBwLzI0MHAubTN1OD9pZD00MjA4NA==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg" group-title="WEB-DL",Frequência Explosiva [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=KB8F9IL3
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg" group-title="WEB-DL",Frequência Explosiva [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/1nn47zk8hww0dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg" group-title="WEB-DL",Fuga Mortal [720p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9hNmIxZjM0MzkzY2FlZTE0NjI2MWRlNjE5NjExOWMwOS83MjBwLzcyMHAubTN1OD9pZD00MjA3Mw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg" group-title="WEB-DL",Fuga Mortal [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9hNmIxZjM0MzkzY2FlZTE0NjI2MWRlNjE5NjExOWMwOS80ODBwLzQ4MHAubTN1OD9pZD00MjA3Mw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg" group-title="WEB-DL",Fuga Mortal [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9hNmIxZjM0MzkzY2FlZTE0NjI2MWRlNjE5NjExOWMwOS8yNDBwLzI0MHAubTN1OD9pZD00MjA3Mw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg" group-title="WEB-DL",Fuga Mortal [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=83RABDYE
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg" group-title="WEB-DL",Fuga Mortal [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/3663j9kzb889x7
+https://streamtape.com/v/dLrdOdebA3TkXPG/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/31h3yYXMvUhvr0rjMzpvnj9NwCN.jpg" group-title="WEB-DL",Meu Eterno Primeiro Amor [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -488,33 +314,33 @@ https://morencius.com/e/90g7chesam7x
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/31h3yYXMvUhvr0rjMzpvnj9NwCN.jpg" group-title="WEB-DL",Meu Eterno Primeiro Amor [Mixdrop]
 #EXTSIZE: medium
 https://mixdrop.top/e/9ww1o4nkhq913r
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/yZIH0gYngHMokH5FWCIchuRQxsy.jpg" group-title="WEB-DL",Ninho: O Preço da Fama [720p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/auYvFnxhWzFxuhVQVSrDw8qkDAS.jpg" group-title="WEB-DL",Meu Eu do Futuro [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
 #EXTVLCOPT:http-origin=https://watch.brstream.cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC80ZjZkMDVmOGJmYjkxNGYwYjdkOTZiYjNjYzdmNGJkMC83MjBwLzcyMHAubTN1OD9pZD00MjA3OQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/yZIH0gYngHMokH5FWCIchuRQxsy.jpg" group-title="WEB-DL",Ninho: O Preço da Fama [480p]
+https://watch.brstream.cc/stream/bTN1OC8xMC80YjJlMDIxN2EwZWQ0NmJlNzIwN2MwYWNmZTJmZWU1My83MjBwLzcyMHAubTN1OD9pZD0yNjgwNw==
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/auYvFnxhWzFxuhVQVSrDw8qkDAS.jpg" group-title="WEB-DL",Meu Eu do Futuro [480p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
 #EXTVLCOPT:http-origin=https://watch.brstream.cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC80ZjZkMDVmOGJmYjkxNGYwYjdkOTZiYjNjYzdmNGJkMC80ODBwLzQ4MHAubTN1OD9pZD00MjA3OQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/yZIH0gYngHMokH5FWCIchuRQxsy.jpg" group-title="WEB-DL",Ninho: O Preço da Fama [240p]
+https://watch.brstream.cc/stream/bTN1OC8xMC80YjJlMDIxN2EwZWQ0NmJlNzIwN2MwYWNmZTJmZWU1My80ODBwLzQ4MHAubTN1OD9pZD0yNjgwNw==
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/auYvFnxhWzFxuhVQVSrDw8qkDAS.jpg" group-title="WEB-DL",Meu Eu do Futuro [240p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
 #EXTVLCOPT:http-origin=https://watch.brstream.cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC80ZjZkMDVmOGJmYjkxNGYwYjdkOTZiYjNjYzdmNGJkMC8yNDBwLzI0MHAubTN1OD9pZD00MjA3OQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/yZIH0gYngHMokH5FWCIchuRQxsy.jpg" group-title="WEB-DL",Ninho: O Preço da Fama [WEB]
+https://watch.brstream.cc/stream/bTN1OC8xMC80YjJlMDIxN2EwZWQ0NmJlNzIwN2MwYWNmZTJmZWU1My8yNDBwLzI0MHAubTN1OD9pZD0yNjgwNw==
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/auYvFnxhWzFxuhVQVSrDw8qkDAS.jpg" group-title="WEB-DL",Meu Eu do Futuro [WEB]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
 #EXTVLCOPT:http-origin=https://watch.brstream.cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=FZP81RXD
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/yZIH0gYngHMokH5FWCIchuRQxsy.jpg" group-title="WEB-DL",Ninho: O Preço da Fama [Mixdrop]
+https://watch.brstream.cc/watch?v=RXJCW83P
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/fEYfXyWhFJScE0I5rHsS2JxIiPP.jpg" group-title="WEB-DL",Morte em LaRoy, Texas
 #EXTSIZE: medium
-https://mixdrop.top/e/jddzxz9miz0lgz
+https://streamtape.com/v/VWX1LDPqd3sKGb1/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3tQCQgJii07tbDDrd9DCEZRJEK2.jpg" group-title="WEB-DL",No Limite da Justiça [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -545,33 +371,6 @@ https://morencius.com/e/9yo4muc3hu10
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3tQCQgJii07tbDDrd9DCEZRJEK2.jpg" group-title="WEB-DL",No Limite da Justiça [Mixdrop]
 #EXTSIZE: medium
 https://mixdrop.top/e/ell64nk3iq1nn0w
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/fIepCv28GrPSEAKeHp4lZ4qp4hN.jpg" group-title="WEB-DL",Novo Eu [720p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9mOTA1NTJjN2ExMzVjZjc3NTVmOWNkNjEzYzA2NDgxZC83MjBwLzcyMHAubTN1OD9pZD00MjA4Nw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/fIepCv28GrPSEAKeHp4lZ4qp4hN.jpg" group-title="WEB-DL",Novo Eu [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9mOTA1NTJjN2ExMzVjZjc3NTVmOWNkNjEzYzA2NDgxZC80ODBwLzQ4MHAubTN1OD9pZD00MjA4Nw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/fIepCv28GrPSEAKeHp4lZ4qp4hN.jpg" group-title="WEB-DL",Novo Eu [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9mOTA1NTJjN2ExMzVjZjc3NTVmOWNkNjEzYzA2NDgxZC8yNDBwLzI0MHAubTN1OD9pZD00MjA4Nw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/fIepCv28GrPSEAKeHp4lZ4qp4hN.jpg" group-title="WEB-DL",Novo Eu [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=RIQ8OAY2
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/fIepCv28GrPSEAKeHp4lZ4qp4hN.jpg" group-title="WEB-DL",Novo Eu [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/1nn4wxqxceroke
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8YHnuK9dowN47XAgSry4EtIuOBZ.jpg" group-title="WEB-DL",Não Olhe em Seus Olhos [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -599,33 +398,9 @@ https://watch.brstream.cc/watch?v=9ESVNC5B
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8YHnuK9dowN47XAgSry4EtIuOBZ.jpg" group-title="WEB-DL",Não Olhe em Seus Olhos [Morencius]
 #EXTSIZE: medium
 https://morencius.com/e/zk9gw4cc0fv2
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zu2SPEKJop0lh2XNX7LMAmLG0n7.jpg" group-title="WEB-DL",O Acordo [720p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/9e6mOZ6zsq6nVxo4kJhTkvvfMP6.jpg" group-title="WEB-DL",O Atleta de 69 anos
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iNDYwNTdjMDFmNjNiYmQ5OWM2MTA1NDVmNzNiNjRjOS83MjBwLzcyMHAubTN1OD9pZD00MjA3NQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zu2SPEKJop0lh2XNX7LMAmLG0n7.jpg" group-title="WEB-DL",O Acordo [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iNDYwNTdjMDFmNjNiYmQ5OWM2MTA1NDVmNzNiNjRjOS80ODBwLzQ4MHAubTN1OD9pZD00MjA3NQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zu2SPEKJop0lh2XNX7LMAmLG0n7.jpg" group-title="WEB-DL",O Acordo [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iNDYwNTdjMDFmNjNiYmQ5OWM2MTA1NDVmNzNiNjRjOS8yNDBwLzI0MHAubTN1OD9pZD00MjA3NQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zu2SPEKJop0lh2XNX7LMAmLG0n7.jpg" group-title="WEB-DL",O Acordo [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=XJ6CHIY4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zu2SPEKJop0lh2XNX7LMAmLG0n7.jpg" group-title="WEB-DL",O Acordo [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/r669op8ga86dqe
+https://streamtape.com/v/xo2pG1qpG4IkdJd/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hhCVXNeTXXxMdh30GKaU4bSLdt1.jpg" group-title="WEB-DL",O Clube do Pé Esquerdo [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -656,6 +431,12 @@ https://mixdrop.top/e/vkk7dd94c9we4g
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hhCVXNeTXXxMdh30GKaU4bSLdt1.jpg" group-title="WEB-DL",O Clube do Pé Esquerdo [Morencius]
 #EXTSIZE: medium
 https://morencius.com/e/6lwt8ghpvsdb
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/kVmJrm0J2w2eUzQumtoFaHtcGvO.jpg" group-title="WEB-DL",O Diabo Vem à Noite
+#EXTSIZE: medium
+https://streamtape.com/v/qlR0lKr0RZCzX6z/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/42OD8WlpZMxOSqnPHmjaLxftzwJ.jpg" group-title="WEB-DL",O Filho da Pantera Cor-de-Rosa
+#EXTSIZE: medium
+https://streamtape.com/v/oD2RzGggQOuJLMx/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zqKvzRYVzIRLbZMPcmUh2oQFCu9.jpg" group-title="WEB-DL",O Mestre do Golpe [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -686,33 +467,6 @@ https://morencius.com/e/v2l43aor6ukc
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zqKvzRYVzIRLbZMPcmUh2oQFCu9.jpg" group-title="WEB-DL",O Mestre do Golpe [Mixdrop]
 #EXTSIZE: medium
 https://mixdrop.top/e/7kk9w6qec77wrm
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/2YhgEEGYOQfl3CzoRcYys8b6JxH.jpg" group-title="WEB-DL",O Natal Perfeito de um Cachorro [720p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC82NGUwNTAzN2EyMWYyZTJhMzNhZGMxYjM5M2Y2N2QxMC83MjBwLzcyMHAubTN1OD9pZD00MjA2Nw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/2YhgEEGYOQfl3CzoRcYys8b6JxH.jpg" group-title="WEB-DL",O Natal Perfeito de um Cachorro [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC82NGUwNTAzN2EyMWYyZTJhMzNhZGMxYjM5M2Y2N2QxMC80ODBwLzQ4MHAubTN1OD9pZD00MjA2Nw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/2YhgEEGYOQfl3CzoRcYys8b6JxH.jpg" group-title="WEB-DL",O Natal Perfeito de um Cachorro [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC82NGUwNTAzN2EyMWYyZTJhMzNhZGMxYjM5M2Y2N2QxMC8yNDBwLzI0MHAubTN1OD9pZD00MjA2Nw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/2YhgEEGYOQfl3CzoRcYys8b6JxH.jpg" group-title="WEB-DL",O Natal Perfeito de um Cachorro [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=LVXNYQZK
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/2YhgEEGYOQfl3CzoRcYys8b6JxH.jpg" group-title="WEB-DL",O Natal Perfeito de um Cachorro [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/dkkd93kgu8qxkn
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mXE05MCbdkuM0JjBj9OfmAF3mnn.jpg" group-title="WEB-DL",O Peixe Rabugento [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -743,60 +497,12 @@ https://mixdrop.top/e/l77nw8vmae019v
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mXE05MCbdkuM0JjBj9OfmAF3mnn.jpg" group-title="WEB-DL",O Peixe Rabugento [Morencius]
 #EXTSIZE: medium
 https://morencius.com/e/ofdj0smyjvxk
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4Sp1rmJzCGmmEZmAQ2kDISIsScm.jpg" group-title="WEB-DL",Onde o Mal Habita [720p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/rlFKNjO9hjhj3sPBwkrErZrkear.jpg" group-title="WEB-DL",O Retorno do Rei: Queda e Ascensão de Elvis Presley
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9hNTViOTQwNjY3NjZmMmQyOWZjMjJhM2JiNTJkNzhmNi83MjBwLzcyMHAubTN1OD9pZD00MjA4NQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4Sp1rmJzCGmmEZmAQ2kDISIsScm.jpg" group-title="WEB-DL",Onde o Mal Habita [480p]
+https://streamtape.com/v/aqKKAZo1ejuxjdJ/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/11tcho0QL35VKS9ARLZLfqN7Poi.jpg" group-title="WEB-DL",Os Assassinatos de Buckingham
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9hNTViOTQwNjY3NjZmMmQyOWZjMjJhM2JiNTJkNzhmNi80ODBwLzQ4MHAubTN1OD9pZD00MjA4NQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4Sp1rmJzCGmmEZmAQ2kDISIsScm.jpg" group-title="WEB-DL",Onde o Mal Habita [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9hNTViOTQwNjY3NjZmMmQyOWZjMjJhM2JiNTJkNzhmNi8yNDBwLzI0MHAubTN1OD9pZD00MjA4NQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4Sp1rmJzCGmmEZmAQ2kDISIsScm.jpg" group-title="WEB-DL",Onde o Mal Habita [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=G948EMYH
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4Sp1rmJzCGmmEZmAQ2kDISIsScm.jpg" group-title="WEB-DL",Onde o Mal Habita [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/z11z8wqpuwqw8k
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/d1u7OUGQGP9okzgUPiLLZeRVgPQ.jpg" group-title="WEB-DL",Os Padrinhos Mágicos no Paraiso [720p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC8wZmY4NGQwMDEzYWE1YTYyOTFkZjg2YjQ2ZjFhYWM1YS83MjBwLzcyMHAubTN1OD9pZD00MjA4MQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/d1u7OUGQGP9okzgUPiLLZeRVgPQ.jpg" group-title="WEB-DL",Os Padrinhos Mágicos no Paraiso [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC8wZmY4NGQwMDEzYWE1YTYyOTFkZjg2YjQ2ZjFhYWM1YS80ODBwLzQ4MHAubTN1OD9pZD00MjA4MQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/d1u7OUGQGP9okzgUPiLLZeRVgPQ.jpg" group-title="WEB-DL",Os Padrinhos Mágicos no Paraiso [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC8wZmY4NGQwMDEzYWE1YTYyOTFkZjg2YjQ2ZjFhYWM1YS8yNDBwLzI0MHAubTN1OD9pZD00MjA4MQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/d1u7OUGQGP9okzgUPiLLZeRVgPQ.jpg" group-title="WEB-DL",Os Padrinhos Mágicos no Paraiso [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=WYP6QDL4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/d1u7OUGQGP9okzgUPiLLZeRVgPQ.jpg" group-title="WEB-DL",Os Padrinhos Mágicos no Paraiso [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/r669r6jebwppw
+https://streamtape.com/v/QdRje6wD4lFJ7M/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/dqcBfSI8fh06qY07VYDRSDjx7pC.jpg" group-title="WEB-DL",Os Segredos do Universo por Aristóteles e Dante [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -857,87 +563,24 @@ https://mixdrop.top/e/r66px400belrvv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/RoT56HuDx3ib1Gdoo0SY4QSW7h.jpg" group-title="WEB-DL",Pais a Bordo [Morencius]
 #EXTSIZE: medium
 https://morencius.com/e/779yjkl6s7xf
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg" group-title="WEB-DL",Sex Drive [720p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/ii648m05nlTvbyC4gabtG4lReya.jpg" group-title="WEB-DL",Princesa Adormecida
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC85MzZjNTY3ZTYzZGFiZjVhYjQ2ZWQyNDQwZjM3NmZjOC83MjBwLzcyMHAubTN1OD9pZD00MjA3Mg==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg" group-title="WEB-DL",Sex Drive [480p]
+https://streamtape.com/v/akGZ1YWZMbSxg2D/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8QjT0rbicohkCUc5143yiStHssU.jpg" group-title="WEB-DL",Protegendo o Paraíso: A História de Niue
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC85MzZjNTY3ZTYzZGFiZjVhYjQ2ZWQyNDQwZjM3NmZjOC80ODBwLzQ4MHAubTN1OD9pZD00MjA3Mg==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg" group-title="WEB-DL",Sex Drive [240p]
+https://streamtape.com/v/r9OKexe4BzFbW77/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5fx9WM0skOfLH3lFsfSMp53Gleh.jpg" group-title="WEB-DL",Quase o Paraíso
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC85MzZjNTY3ZTYzZGFiZjVhYjQ2ZWQyNDQwZjM3NmZjOC8yNDBwLzI0MHAubTN1OD9pZD00MjA3Mg==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg" group-title="WEB-DL",Sex Drive [WEB]
+https://streamtape.com/v/yA62QPqpMbS1b9k/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/A0vnz6yL39gzdLEEJfKwMm5UrNM.jpg" group-title="WEB-DL",Romance no Ar: Uma Garota Apaixonada
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=H16QPX7N
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg" group-title="WEB-DL",Sex Drive [Mixdrop]
+https://streamtape.com/v/6jbPV6X08MF99ap/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/ocuh1V9ddIF7YiXk0s0PpKr7mpH.jpg" group-title="WEB-DL",Sede Sem Fim
 #EXTSIZE: medium
-https://mixdrop.top/e/9wwq31zjse10g7
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mtLv6gZYqwc1tJ5eTaTknIg4ZHf.jpg" group-title="WEB-DL",Sozinha no Bunker [720p]
+https://streamtape.com/v/Jw3yrXKVJoUjMwe/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/6BYLw1UUR1lGQyMJ5OgD6KVa6mm.jpg" group-title="WEB-DL",Sim, Chef! É Natal!
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iYWUzODY2MWEyN2Y2MjI4YmEzOGMzNmU3NjZlZDc2OS83MjBwLzcyMHAubTN1OD9pZD00MjA4OQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mtLv6gZYqwc1tJ5eTaTknIg4ZHf.jpg" group-title="WEB-DL",Sozinha no Bunker [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iYWUzODY2MWEyN2Y2MjI4YmEzOGMzNmU3NjZlZDc2OS80ODBwLzQ4MHAubTN1OD9pZD00MjA4OQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mtLv6gZYqwc1tJ5eTaTknIg4ZHf.jpg" group-title="WEB-DL",Sozinha no Bunker [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9iYWUzODY2MWEyN2Y2MjI4YmEzOGMzNmU3NjZlZDc2OS8yNDBwLzI0MHAubTN1OD9pZD00MjA4OQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mtLv6gZYqwc1tJ5eTaTknIg4ZHf.jpg" group-title="WEB-DL",Sozinha no Bunker [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=A9RTIE7W
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mtLv6gZYqwc1tJ5eTaTknIg4ZHf.jpg" group-title="WEB-DL",Sozinha no Bunker [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/8llqpnjpb1x0rx
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1llKFdyhC8rnVLpKZHky6SMv0eB.jpg" group-title="WEB-DL",Trabalhamos para os Mortos [720p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC85NWE5YzFhYjhjZmMzNGI5OWY0YTY2ZGE3MDdlNTA0Zi83MjBwLzcyMHAubTN1OD9pZD00MjA4Ng==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1llKFdyhC8rnVLpKZHky6SMv0eB.jpg" group-title="WEB-DL",Trabalhamos para os Mortos [480p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC85NWE5YzFhYjhjZmMzNGI5OWY0YTY2ZGE3MDdlNTA0Zi80ODBwLzQ4MHAubTN1OD9pZD00MjA4Ng==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1llKFdyhC8rnVLpKZHky6SMv0eB.jpg" group-title="WEB-DL",Trabalhamos para os Mortos [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC85NWE5YzFhYjhjZmMzNGI5OWY0YTY2ZGE3MDdlNTA0Zi8yNDBwLzI0MHAubTN1OD9pZD00MjA4Ng==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1llKFdyhC8rnVLpKZHky6SMv0eB.jpg" group-title="WEB-DL",Trabalhamos para os Mortos [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=D75F1AOE
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1llKFdyhC8rnVLpKZHky6SMv0eB.jpg" group-title="WEB-DL",Trabalhamos para os Mortos [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/l77qxmn7bjqdpw
+https://streamtape.com/v/glyBB6d2WRhq76Y/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3QqCkCz7ZErOYgbUiquOheH7ezq.jpg" group-title="WEB-DL",Tudo Sobre Você [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -968,33 +611,12 @@ https://morencius.com/e/2qxnceyiyewb
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3QqCkCz7ZErOYgbUiquOheH7ezq.jpg" group-title="WEB-DL",Tudo Sobre Você [Mixdrop]
 #EXTSIZE: medium
 https://mixdrop.top/e/4ddvkzrnh8q61q
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/rleue0CXFaVemfPnwkjtoe5TK5A.jpg" group-title="WEB-DL",Um Ano de Vida, Compre Um Homem [720p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/w5YVZQSR8yTOUFTS46QSUhnsYgK.jpg" group-title="WEB-DL",Um Amor Feito de Neve
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9lNmQyN2JkMTBiOTA5ODAzM2E0M2NhOTEwNjZjYWE4NC83MjBwLzcyMHAubTN1OD9pZD00MjA4Mw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/rleue0CXFaVemfPnwkjtoe5TK5A.jpg" group-title="WEB-DL",Um Ano de Vida, Compre Um Homem [480p]
+https://streamtape.com/v/4wwLvG73o4sKRdd/
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/nCfIJICQ0QnZiLmBs9CdaBxLq0d.jpg" group-title="WEB-DL",Um Bom Advogado
 #EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9lNmQyN2JkMTBiOTA5ODAzM2E0M2NhOTEwNjZjYWE4NC80ODBwLzQ4MHAubTN1OD9pZD00MjA4Mw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/rleue0CXFaVemfPnwkjtoe5TK5A.jpg" group-title="WEB-DL",Um Ano de Vida, Compre Um Homem [240p]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/stream/bTN1OC8xMC9lNmQyN2JkMTBiOTA5ODAzM2E0M2NhOTEwNjZjYWE4NC8yNDBwLzI0MHAubTN1OD9pZD00MjA4Mw==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/rleue0CXFaVemfPnwkjtoe5TK5A.jpg" group-title="WEB-DL",Um Ano de Vida, Compre Um Homem [WEB]
-#EXTSIZE: medium
-#EXTVLCOPT:http-referrer=https://watch.brstream.cc/
-#EXTVLCOPT:http-origin=https://watch.brstream.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://watch.brstream.cc/watch?v=PFCHZ2NX
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/rleue0CXFaVemfPnwkjtoe5TK5A.jpg" group-title="WEB-DL",Um Ano de Vida, Compre Um Homem [Mixdrop]
-#EXTSIZE: medium
-https://mixdrop.top/e/1nn47zwocok8k6
+https://morencius.com/file/wkvsmk0rv388
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/b1zW7NCtgrOacAyPpUvUX4extM0.jpg" group-title="WEB-DL",Vizinhos vs. Monstros [720p]
 #EXTSIZE: medium
 #EXTVLCOPT:http-referrer=https://watch.brstream.cc/
@@ -1025,3 +647,6 @@ https://morencius.com/e/s1swggn2s6oo
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/b1zW7NCtgrOacAyPpUvUX4extM0.jpg" group-title="WEB-DL",Vizinhos vs. Monstros [Mixdrop]
 #EXTSIZE: medium
 https://mixdrop.top/e/677p0znjsdw3vd
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/h61Zb6WYzQ6IYAvCFeoBIgxNRa6.jpg" group-title="WEB-DL",Zuzubalândia – O Filme
+#EXTSIZE: medium
+https://streamtape.com/v/kl8wxPwXDBCOzYR/
