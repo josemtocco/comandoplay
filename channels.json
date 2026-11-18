@@ -1,12 +1,4 @@
 {
-  "Protegendo Estrelas": {
-    "stream_url": "https://mixdrop.top/f/dkk4dgnefrp6nd",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/protegendo-estrelas/",
-    "base_name": "Protegendo Estrelas",
-    "quality": "auto"
-  },
   "O Brilho do Mar": {
     "stream_url": "https://mixdrop.top/f/pjjnm99paq1dlg",
     "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/jG1ze8wLP3XJwUoKQSmSnzJBxAQ.jpg",
@@ -14,30 +6,6 @@
     "page_url": "https://comandoplay.tv/o-brilho-do-mar/",
     "base_name": "O Brilho do Mar",
     "quality": "auto"
-  },
-  "Madden: O Homem e o Jogo [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8zNTI0ODBkZjkzZmIwMjJlYjFkZWViODE5ZjI1NWY1NS83MjBwLzcyMHAubTN1OD9pZD00MjM2NQ==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/madden-o-homem-e-o-jogo/",
-    "base_name": "Madden: O Homem e o Jogo",
-    "quality": "720p"
-  },
-  "Madden: O Homem e o Jogo [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=AQE3L0FJ",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/madden-o-homem-e-o-jogo/",
-    "base_name": "Madden: O Homem e o Jogo",
-    "quality": "WEB"
-  },
-  "Madden: O Homem e o Jogo [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/dkk4dmo7a7xwj9r",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/madden-o-homem-e-o-jogo/",
-    "base_name": "Madden: O Homem e o Jogo",
-    "quality": "Mixdrop"
   },
   "Sob as Luzes do Natal [720p]": {
     "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC84MzUzYjQ2YWFlYmY5ZWMwZTExNWZlMjA3N2U1YzQ4ZC83MjBwLzcyMHAubTN1OD9pZD00MjM2NA==",
@@ -55,6 +23,14 @@
     "base_name": "Sob as Luzes do Natal",
     "quality": "480p"
   },
+  "Sob as Luzes do Natal [240p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC84MzUzYjQ2YWFlYmY5ZWMwZTExNWZlMjA3N2U1YzQ4ZC8yNDBwLzI0MHAubTN1OD9pZD00MjM2NA==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/ojNeqON64ZJcKWCMr1behW73K3Z.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/sob-as-luzes-do-natal/",
+    "base_name": "Sob as Luzes do Natal",
+    "quality": "240p"
+  },
   "Sob as Luzes do Natal [WEB]": {
     "stream_url": "https://watch.brstream.cc/watch?v=4E2FWI1M",
     "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/ojNeqON64ZJcKWCMr1behW73K3Z.jpg",
@@ -71,53 +47,133 @@
     "base_name": "Sob as Luzes do Natal",
     "quality": "Mixdrop"
   },
-  "Turma da Mônica Jovem: Incertezas [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC81OWEwNWM3ZDAyN2ViMTRjODIwN2U2NGQ3YjczZmQ5OC83MjBwLzcyMHAubTN1OD9pZD00MjM1Nw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
+  "Protegendo Estrelas [720p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8zOTgzYzk5ZDQ3NWU4MGU4NzQ1MTJhMGJkNTgyZGNjOS83MjBwLzcyMHAubTN1OD9pZD00MjM2Mw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
-    "base_name": "Turma da Mônica Jovem: Incertezas",
+    "page_url": "https://comandoplay.tv/protegendo-estrelas/",
+    "base_name": "Protegendo Estrelas",
     "quality": "720p"
   },
-  "Turma da Mônica Jovem: Incertezas [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC81OWEwNWM3ZDAyN2ViMTRjODIwN2U2NGQ3YjczZmQ5OC80ODBwLzQ4MHAubTN1OD9pZD00MjM1Nw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
+  "Protegendo Estrelas [480p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8zOTgzYzk5ZDQ3NWU4MGU4NzQ1MTJhMGJkNTgyZGNjOS80ODBwLzQ4MHAubTN1OD9pZD00MjM2Mw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
-    "base_name": "Turma da Mônica Jovem: Incertezas",
+    "page_url": "https://comandoplay.tv/protegendo-estrelas/",
+    "base_name": "Protegendo Estrelas",
     "quality": "480p"
   },
-  "Turma da Mônica Jovem: Incertezas [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC81OWEwNWM3ZDAyN2ViMTRjODIwN2U2NGQ3YjczZmQ5OC8yNDBwLzI0MHAubTN1OD9pZD00MjM1Nw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
+  "Protegendo Estrelas [240p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8zOTgzYzk5ZDQ3NWU4MGU4NzQ1MTJhMGJkNTgyZGNjOS8yNDBwLzI0MHAubTN1OD9pZD00MjM2Mw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
-    "base_name": "Turma da Mônica Jovem: Incertezas",
+    "page_url": "https://comandoplay.tv/protegendo-estrelas/",
+    "base_name": "Protegendo Estrelas",
     "quality": "240p"
   },
-  "Turma da Mônica Jovem: Incertezas [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=BV87UKZF",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
+  "Protegendo Estrelas [WEB]": {
+    "stream_url": "https://watch.brstream.cc/watch?v=QLKP173C",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
-    "base_name": "Turma da Mônica Jovem: Incertezas",
+    "page_url": "https://comandoplay.tv/protegendo-estrelas/",
+    "base_name": "Protegendo Estrelas",
     "quality": "WEB"
   },
-  "Turma da Mônica Jovem: Incertezas [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/l77gvmdmf69k3k",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
+  "Protegendo Estrelas [Mixdrop]": {
+    "stream_url": "https://mixdrop.top/e/dkk4dgnefrp6nd",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
-    "base_name": "Turma da Mônica Jovem: Incertezas",
+    "page_url": "https://comandoplay.tv/protegendo-estrelas/",
+    "base_name": "Protegendo Estrelas",
     "quality": "Mixdrop"
   },
-  "Turma da Mônica Jovem: Incertezas [Morencius]": {
-    "stream_url": "https://morencius.com/embed/cr2f9fswgc8d",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
+  "A Odisseia [720p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC82ODczMzhjMWU3OWMyYWNjMmIyYmJmOWZlMDU0MmU2Mi83MjBwLzcyMHAubTN1OD9pZD00MjM1NQ==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
-    "base_name": "Turma da Mônica Jovem: Incertezas",
+    "page_url": "https://comandoplay.tv/a-odisseia/",
+    "base_name": "A Odisseia",
+    "quality": "720p"
+  },
+  "A Odisseia [480p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC82ODczMzhjMWU3OWMyYWNjMmIyYmJmOWZlMDU0MmU2Mi80ODBwLzQ4MHAubTN1OD9pZD00MjM1NQ==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-odisseia/",
+    "base_name": "A Odisseia",
+    "quality": "480p"
+  },
+  "A Odisseia [240p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC82ODczMzhjMWU3OWMyYWNjMmIyYmJmOWZlMDU0MmU2Mi8yNDBwLzI0MHAubTN1OD9pZD00MjM1NQ==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-odisseia/",
+    "base_name": "A Odisseia",
+    "quality": "240p"
+  },
+  "A Odisseia [WEB]": {
+    "stream_url": "https://watch.brstream.cc/watch?v=IEHUQVX0",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-odisseia/",
+    "base_name": "A Odisseia",
+    "quality": "WEB"
+  },
+  "A Odisseia [Mixdrop]": {
+    "stream_url": "https://mixdrop.top/e/vkkv140rcv1k8x",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-odisseia/",
+    "base_name": "A Odisseia",
+    "quality": "Mixdrop"
+  },
+  "A Odisseia [Morencius]": {
+    "stream_url": "https://morencius.com/embed/pfd4u4af4htw",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-odisseia/",
+    "base_name": "A Odisseia",
     "quality": "Morencius"
+  },
+  "Madden: O Homem e o Jogo [720p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8zNTI0ODBkZjkzZmIwMjJlYjFkZWViODE5ZjI1NWY1NS83MjBwLzcyMHAubTN1OD9pZD00MjM2NQ==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/madden-o-homem-e-o-jogo/",
+    "base_name": "Madden: O Homem e o Jogo",
+    "quality": "720p"
+  },
+  "Madden: O Homem e o Jogo [480p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8zNTI0ODBkZjkzZmIwMjJlYjFkZWViODE5ZjI1NWY1NS80ODBwLzQ4MHAubTN1OD9pZD00MjM2NQ==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/madden-o-homem-e-o-jogo/",
+    "base_name": "Madden: O Homem e o Jogo",
+    "quality": "480p"
+  },
+  "Madden: O Homem e o Jogo [240p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8zNTI0ODBkZjkzZmIwMjJlYjFkZWViODE5ZjI1NWY1NS8yNDBwLzI0MHAubTN1OD9pZD00MjM2NQ==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/madden-o-homem-e-o-jogo/",
+    "base_name": "Madden: O Homem e o Jogo",
+    "quality": "240p"
+  },
+  "Madden: O Homem e o Jogo [WEB]": {
+    "stream_url": "https://watch.brstream.cc/watch?v=AQE3L0FJ",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/madden-o-homem-e-o-jogo/",
+    "base_name": "Madden: O Homem e o Jogo",
+    "quality": "WEB"
+  },
+  "Madden: O Homem e o Jogo [Mixdrop]": {
+    "stream_url": "https://mixdrop.top/e/dkk4dmo7a7xwj9r",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/madden-o-homem-e-o-jogo/",
+    "base_name": "Madden: O Homem e o Jogo",
+    "quality": "Mixdrop"
   },
   "O Pior Verão de Nossas Vidas [720p]": {
     "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8yMDMzN2U4ODllZTE3Y2E5ODYyYTgzMTc5MThhZTVkOS83MjBwLzcyMHAubTN1OD9pZD00MjM1NA==",
@@ -167,52 +223,52 @@
     "base_name": "O Pior Verão de Nossas Vidas",
     "quality": "Morencius"
   },
-  "Protocolo de Fuga [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8xZDExZmVmZDg3MTZiNDJkM2RlY2YyNmQyODc2MTBmZS83MjBwLzcyMHAubTN1OD9pZD00MjM1Mw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+  "Turma da Mônica Jovem: Incertezas [720p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC81OWEwNWM3ZDAyN2ViMTRjODIwN2U2NGQ3YjczZmQ5OC83MjBwLzcyMHAubTN1OD9pZD00MjM1Nw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
-    "base_name": "Protocolo de Fuga",
+    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
+    "base_name": "Turma da Mônica Jovem: Incertezas",
     "quality": "720p"
   },
-  "Protocolo de Fuga [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8xZDExZmVmZDg3MTZiNDJkM2RlY2YyNmQyODc2MTBmZS80ODBwLzQ4MHAubTN1OD9pZD00MjM1Mw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+  "Turma da Mônica Jovem: Incertezas [480p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC81OWEwNWM3ZDAyN2ViMTRjODIwN2U2NGQ3YjczZmQ5OC80ODBwLzQ4MHAubTN1OD9pZD00MjM1Nw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
-    "base_name": "Protocolo de Fuga",
+    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
+    "base_name": "Turma da Mônica Jovem: Incertezas",
     "quality": "480p"
   },
-  "Protocolo de Fuga [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8xZDExZmVmZDg3MTZiNDJkM2RlY2YyNmQyODc2MTBmZS8yNDBwLzI0MHAubTN1OD9pZD00MjM1Mw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+  "Turma da Mônica Jovem: Incertezas [240p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC81OWEwNWM3ZDAyN2ViMTRjODIwN2U2NGQ3YjczZmQ5OC8yNDBwLzI0MHAubTN1OD9pZD00MjM1Nw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
-    "base_name": "Protocolo de Fuga",
+    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
+    "base_name": "Turma da Mônica Jovem: Incertezas",
     "quality": "240p"
   },
-  "Protocolo de Fuga [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=LRZ4I3J6",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+  "Turma da Mônica Jovem: Incertezas [WEB]": {
+    "stream_url": "https://watch.brstream.cc/watch?v=BV87UKZF",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
-    "base_name": "Protocolo de Fuga",
+    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
+    "base_name": "Turma da Mônica Jovem: Incertezas",
     "quality": "WEB"
   },
-  "Protocolo de Fuga [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/z11q94l3axg16l",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+  "Turma da Mônica Jovem: Incertezas [Mixdrop]": {
+    "stream_url": "https://mixdrop.top/e/l77gvmdmf69k3k",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
-    "base_name": "Protocolo de Fuga",
+    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
+    "base_name": "Turma da Mônica Jovem: Incertezas",
     "quality": "Mixdrop"
   },
-  "Protocolo de Fuga [Morencius]": {
-    "stream_url": "https://morencius.com/embed/z7qupl45hy22",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+  "Turma da Mônica Jovem: Incertezas [Morencius]": {
+    "stream_url": "https://morencius.com/embed/cr2f9fswgc8d",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
-    "base_name": "Protocolo de Fuga",
+    "page_url": "https://comandoplay.tv/turma-da-monica-jovem-incertezas/",
+    "base_name": "Turma da Mônica Jovem: Incertezas",
     "quality": "Morencius"
   },
   "Um Segredo de Natal na Escócia [720p]": {
@@ -263,94 +319,6 @@
     "base_name": "Um Segredo de Natal na Escócia",
     "quality": "Morencius"
   },
-  "A Odisseia [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC82ODczMzhjMWU3OWMyYWNjMmIyYmJmOWZlMDU0MmU2Mi83MjBwLzcyMHAubTN1OD9pZD00MjM1NQ==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-odisseia/",
-    "base_name": "A Odisseia",
-    "quality": "720p"
-  },
-  "A Odisseia [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC82ODczMzhjMWU3OWMyYWNjMmIyYmJmOWZlMDU0MmU2Mi80ODBwLzQ4MHAubTN1OD9pZD00MjM1NQ==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-odisseia/",
-    "base_name": "A Odisseia",
-    "quality": "480p"
-  },
-  "A Odisseia [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC82ODczMzhjMWU3OWMyYWNjMmIyYmJmOWZlMDU0MmU2Mi8yNDBwLzI0MHAubTN1OD9pZD00MjM1NQ==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-odisseia/",
-    "base_name": "A Odisseia",
-    "quality": "240p"
-  },
-  "A Odisseia [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=IEHUQVX0",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-odisseia/",
-    "base_name": "A Odisseia",
-    "quality": "WEB"
-  },
-  "A Odisseia [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/vkkv140rcv1k8x",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-odisseia/",
-    "base_name": "A Odisseia",
-    "quality": "Mixdrop"
-  },
-  "A Odisseia [Morencius]": {
-    "stream_url": "https://morencius.com/embed/pfd4u4af4htw",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-odisseia/",
-    "base_name": "A Odisseia",
-    "quality": "Morencius"
-  },
-  "A Promessa [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjIxMzRjNjMyNTE5ZTQ4MWYxZjJlYjI0OWQ3MDZjZS83MjBwLzcyMHAubTN1OD9pZD00MjM1MA==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-promessa/",
-    "base_name": "A Promessa",
-    "quality": "720p"
-  },
-  "A Promessa [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjIxMzRjNjMyNTE5ZTQ4MWYxZjJlYjI0OWQ3MDZjZS80ODBwLzQ4MHAubTN1OD9pZD00MjM1MA==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-promessa/",
-    "base_name": "A Promessa",
-    "quality": "480p"
-  },
-  "A Promessa [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjIxMzRjNjMyNTE5ZTQ4MWYxZjJlYjI0OWQ3MDZjZS8yNDBwLzI0MHAubTN1OD9pZD00MjM1MA==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-promessa/",
-    "base_name": "A Promessa",
-    "quality": "240p"
-  },
-  "A Promessa [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=3IW10Y72",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-promessa/",
-    "base_name": "A Promessa",
-    "quality": "WEB"
-  },
-  "A Promessa [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/dkkkgnxji6z4eo",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-promessa/",
-    "base_name": "A Promessa",
-    "quality": "Mixdrop"
-  },
   "Torn Apart: Separados na Fronteira [720p]": {
     "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9lN2E3YWQ3MDExODFmYWNmNjg1YzYwYjFiYTI2NDM2My83MjBwLzcyMHAubTN1OD9pZD00MjM1MQ==",
     "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/t564c56K1X7p0ViFL7TGbEnr5z8.jpg",
@@ -391,53 +359,53 @@
     "base_name": "Torn Apart: Separados na Fronteira",
     "quality": "Morencius"
   },
-  "O Véu Encantado [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9kNWE0Y2ZjZGFmZTg1N2U0MjZhOTIwMTdlMTk4N2ZmMi83MjBwLzcyMHAubTN1OD9pZD00MjM0NA==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+  "Protocolo de Fuga [720p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8xZDExZmVmZDg3MTZiNDJkM2RlY2YyNmQyODc2MTBmZS83MjBwLzcyMHAubTN1OD9pZD00MjM1Mw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/o-veu-encantado/",
-    "base_name": "O Véu Encantado",
+    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
+    "base_name": "Protocolo de Fuga",
     "quality": "720p"
   },
-  "O Véu Encantado [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9kNWE0Y2ZjZGFmZTg1N2U0MjZhOTIwMTdlMTk4N2ZmMi80ODBwLzQ4MHAubTN1OD9pZD00MjM0NA==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+  "Protocolo de Fuga [480p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8xZDExZmVmZDg3MTZiNDJkM2RlY2YyNmQyODc2MTBmZS80ODBwLzQ4MHAubTN1OD9pZD00MjM1Mw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/o-veu-encantado/",
-    "base_name": "O Véu Encantado",
+    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
+    "base_name": "Protocolo de Fuga",
     "quality": "480p"
   },
-  "O Véu Encantado [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9kNWE0Y2ZjZGFmZTg1N2U0MjZhOTIwMTdlMTk4N2ZmMi8yNDBwLzI0MHAubTN1OD9pZD00MjM0NA==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+  "Protocolo de Fuga [240p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8xZDExZmVmZDg3MTZiNDJkM2RlY2YyNmQyODc2MTBmZS8yNDBwLzI0MHAubTN1OD9pZD00MjM1Mw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/o-veu-encantado/",
-    "base_name": "O Véu Encantado",
+    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
+    "base_name": "Protocolo de Fuga",
     "quality": "240p"
   },
-  "O Véu Encantado [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=IDHKTXFM",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+  "Protocolo de Fuga [WEB]": {
+    "stream_url": "https://watch.brstream.cc/watch?v=LRZ4I3J6",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/o-veu-encantado/",
-    "base_name": "O Véu Encantado",
+    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
+    "base_name": "Protocolo de Fuga",
     "quality": "WEB"
   },
-  "O Véu Encantado [Morencius]": {
-    "stream_url": "https://morencius.com/embed/f0kjd0w5wlbh",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+  "Protocolo de Fuga [Mixdrop]": {
+    "stream_url": "https://mixdrop.top/e/z11q94l3axg16l",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/o-veu-encantado/",
-    "base_name": "O Véu Encantado",
-    "quality": "Morencius"
-  },
-  "O Véu Encantado [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/z111669osg8km1p",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/o-veu-encantado/",
-    "base_name": "O Véu Encantado",
+    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
+    "base_name": "Protocolo de Fuga",
     "quality": "Mixdrop"
+  },
+  "Protocolo de Fuga [Morencius]": {
+    "stream_url": "https://morencius.com/embed/z7qupl45hy22",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/protocolo-de-fuga/",
+    "base_name": "Protocolo de Fuga",
+    "quality": "Morencius"
   },
   "Batman: Morte em Família [720p]": {
     "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9lNWMxYWRiNTRiNTIyMTIxNmQ3NGE2N2YxZTY5ODJlYy83MjBwLzcyMHAubTN1OD9pZD00MjM0Ng==",
@@ -487,6 +455,94 @@
     "base_name": "Batman: Morte em Família",
     "quality": "Morencius"
   },
+  "A Promessa [720p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjIxMzRjNjMyNTE5ZTQ4MWYxZjJlYjI0OWQ3MDZjZS83MjBwLzcyMHAubTN1OD9pZD00MjM1MA==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-promessa/",
+    "base_name": "A Promessa",
+    "quality": "720p"
+  },
+  "A Promessa [480p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjIxMzRjNjMyNTE5ZTQ4MWYxZjJlYjI0OWQ3MDZjZS80ODBwLzQ4MHAubTN1OD9pZD00MjM1MA==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-promessa/",
+    "base_name": "A Promessa",
+    "quality": "480p"
+  },
+  "A Promessa [240p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjIxMzRjNjMyNTE5ZTQ4MWYxZjJlYjI0OWQ3MDZjZS8yNDBwLzI0MHAubTN1OD9pZD00MjM1MA==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-promessa/",
+    "base_name": "A Promessa",
+    "quality": "240p"
+  },
+  "A Promessa [WEB]": {
+    "stream_url": "https://watch.brstream.cc/watch?v=3IW10Y72",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-promessa/",
+    "base_name": "A Promessa",
+    "quality": "WEB"
+  },
+  "A Promessa [Mixdrop]": {
+    "stream_url": "https://mixdrop.top/e/dkkkgnxji6z4eo",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/wblCjemdk9gUUH2B5KWRHAUmEIY.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/a-promessa/",
+    "base_name": "A Promessa",
+    "quality": "Mixdrop"
+  },
+  "O Véu Encantado [720p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9kNWE0Y2ZjZGFmZTg1N2U0MjZhOTIwMTdlMTk4N2ZmMi83MjBwLzcyMHAubTN1OD9pZD00MjM0NA==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/o-veu-encantado/",
+    "base_name": "O Véu Encantado",
+    "quality": "720p"
+  },
+  "O Véu Encantado [480p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9kNWE0Y2ZjZGFmZTg1N2U0MjZhOTIwMTdlMTk4N2ZmMi80ODBwLzQ4MHAubTN1OD9pZD00MjM0NA==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/o-veu-encantado/",
+    "base_name": "O Véu Encantado",
+    "quality": "480p"
+  },
+  "O Véu Encantado [240p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9kNWE0Y2ZjZGFmZTg1N2U0MjZhOTIwMTdlMTk4N2ZmMi8yNDBwLzI0MHAubTN1OD9pZD00MjM0NA==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/o-veu-encantado/",
+    "base_name": "O Véu Encantado",
+    "quality": "240p"
+  },
+  "O Véu Encantado [WEB]": {
+    "stream_url": "https://watch.brstream.cc/watch?v=IDHKTXFM",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/o-veu-encantado/",
+    "base_name": "O Véu Encantado",
+    "quality": "WEB"
+  },
+  "O Véu Encantado [Morencius]": {
+    "stream_url": "https://morencius.com/embed/f0kjd0w5wlbh",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/o-veu-encantado/",
+    "base_name": "O Véu Encantado",
+    "quality": "Morencius"
+  },
+  "O Véu Encantado [Mixdrop]": {
+    "stream_url": "https://mixdrop.top/e/z111669osg8km1p",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4mrgstU12dz4Q12ky9zHnVZ4QVR.jpg",
+    "group": "WEB-DL",
+    "page_url": "https://comandoplay.tv/o-veu-encantado/",
+    "base_name": "O Véu Encantado",
+    "quality": "Mixdrop"
+  },
   "Em Rota de Fuga [720p]": {
     "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC83ZjcyNTY1MGY0ZmRlYzBjYzhkNDA5OWJiN2M4YjlkNC83MjBwLzcyMHAubTN1OD9pZD00MjM0Mg==",
     "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/sMEXKr33hp6f3CJO6igodtRBBLW.jpg",
@@ -533,238 +589,6 @@
     "group": "WEB-DL",
     "page_url": "https://comandoplay.tv/em-rota-de-fuga/",
     "base_name": "Em Rota de Fuga",
-    "quality": "Mixdrop"
-  },
-  "Um Natal para Recomeçar [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjVmYTdmNzYxMDRhYWVjYWY2ZGE0ODQ4Y2UxNDkxMC83MjBwLzcyMHAubTN1OD9pZD00MjMzNw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
-    "base_name": "Um Natal para Recomeçar",
-    "quality": "720p"
-  },
-  "Um Natal para Recomeçar [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjVmYTdmNzYxMDRhYWVjYWY2ZGE0ODQ4Y2UxNDkxMC80ODBwLzQ4MHAubTN1OD9pZD00MjMzNw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
-    "base_name": "Um Natal para Recomeçar",
-    "quality": "480p"
-  },
-  "Um Natal para Recomeçar [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjVmYTdmNzYxMDRhYWVjYWY2ZGE0ODQ4Y2UxNDkxMC8yNDBwLzI0MHAubTN1OD9pZD00MjMzNw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
-    "base_name": "Um Natal para Recomeçar",
-    "quality": "240p"
-  },
-  "Um Natal para Recomeçar [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=HFI3J0CV",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
-    "base_name": "Um Natal para Recomeçar",
-    "quality": "WEB"
-  },
-  "Um Natal para Recomeçar [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/wlllo066hd7v7q",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
-    "base_name": "Um Natal para Recomeçar",
-    "quality": "Mixdrop"
-  },
-  "Minha Escola Esquisita [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8yZmM5NWY5MmFkNjIzYTEwZWE5Y2I3ZTZmMmY4OWNhYS83MjBwLzcyMHAubTN1OD9pZD00MjMzMQ==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/y0rRAxg4WBC91IKRAaGckQysrG0.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/minha-escola-esquisita/",
-    "base_name": "Minha Escola Esquisita",
-    "quality": "720p"
-  },
-  "Minha Escola Esquisita [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8yZmM5NWY5MmFkNjIzYTEwZWE5Y2I3ZTZmMmY4OWNhYS80ODBwLzQ4MHAubTN1OD9pZD00MjMzMQ==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/y0rRAxg4WBC91IKRAaGckQysrG0.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/minha-escola-esquisita/",
-    "base_name": "Minha Escola Esquisita",
-    "quality": "480p"
-  },
-  "Minha Escola Esquisita [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC8yZmM5NWY5MmFkNjIzYTEwZWE5Y2I3ZTZmMmY4OWNhYS8yNDBwLzI0MHAubTN1OD9pZD00MjMzMQ==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/y0rRAxg4WBC91IKRAaGckQysrG0.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/minha-escola-esquisita/",
-    "base_name": "Minha Escola Esquisita",
-    "quality": "240p"
-  },
-  "Minha Escola Esquisita [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=G98UQEXM",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/y0rRAxg4WBC91IKRAaGckQysrG0.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/minha-escola-esquisita/",
-    "base_name": "Minha Escola Esquisita",
-    "quality": "WEB"
-  },
-  "Minha Escola Esquisita [Morencius]": {
-    "stream_url": "https://morencius.com/embed/2mvwv5lqmqrp",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/y0rRAxg4WBC91IKRAaGckQysrG0.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/minha-escola-esquisita/",
-    "base_name": "Minha Escola Esquisita",
-    "quality": "Morencius"
-  },
-  "Minha Escola Esquisita [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/elllweq8fr7e1j",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/y0rRAxg4WBC91IKRAaGckQysrG0.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/minha-escola-esquisita/",
-    "base_name": "Minha Escola Esquisita",
-    "quality": "Mixdrop"
-  },
-  "Solteiros no Natal [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC85OWNjODBhZDQ2MmY5NDQxZjIyMWUxYjk5MTAyOGE4Ni83MjBwLzcyMHAubTN1OD9pZD0zNjMzNw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/xIh2WYG27wevRaPsHahAEZmsBc6.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/solteiros-no-natal/",
-    "base_name": "Solteiros no Natal",
-    "quality": "720p"
-  },
-  "Solteiros no Natal [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC85OWNjODBhZDQ2MmY5NDQxZjIyMWUxYjk5MTAyOGE4Ni80ODBwLzQ4MHAubTN1OD9pZD0zNjMzNw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/xIh2WYG27wevRaPsHahAEZmsBc6.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/solteiros-no-natal/",
-    "base_name": "Solteiros no Natal",
-    "quality": "480p"
-  },
-  "Solteiros no Natal [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC85OWNjODBhZDQ2MmY5NDQxZjIyMWUxYjk5MTAyOGE4Ni8yNDBwLzI0MHAubTN1OD9pZD0zNjMzNw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/xIh2WYG27wevRaPsHahAEZmsBc6.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/solteiros-no-natal/",
-    "base_name": "Solteiros no Natal",
-    "quality": "240p"
-  },
-  "Solteiros no Natal [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=MXA1528C",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/xIh2WYG27wevRaPsHahAEZmsBc6.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/solteiros-no-natal/",
-    "base_name": "Solteiros no Natal",
-    "quality": "WEB"
-  },
-  "Solteiros no Natal [Morencius]": {
-    "stream_url": "https://morencius.com/embed/vd679hshbxuu",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/xIh2WYG27wevRaPsHahAEZmsBc6.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/solteiros-no-natal/",
-    "base_name": "Solteiros no Natal",
-    "quality": "Morencius"
-  },
-  "Solteiros no Natal [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/1nnn86nxsvokq3",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/xIh2WYG27wevRaPsHahAEZmsBc6.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/solteiros-no-natal/",
-    "base_name": "Solteiros no Natal",
-    "quality": "Mixdrop"
-  },
-  "Ninguém Vai Te Ouvir Gritar [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9lNjFiNjk0NDE4MTk2MzgxNGNlY2M2ODQ0MzJiYjUxMi83MjBwLzcyMHAubTN1OD9pZD00MjMzMA==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/5e877bTsl71ENZLtQ7L1lGVV9yN.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/ninguem-vai-te-ouvir-gritar/",
-    "base_name": "Ninguém Vai Te Ouvir Gritar",
-    "quality": "720p"
-  },
-  "Ninguém Vai Te Ouvir Gritar [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9lNjFiNjk0NDE4MTk2MzgxNGNlY2M2ODQ0MzJiYjUxMi80ODBwLzQ4MHAubTN1OD9pZD00MjMzMA==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/5e877bTsl71ENZLtQ7L1lGVV9yN.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/ninguem-vai-te-ouvir-gritar/",
-    "base_name": "Ninguém Vai Te Ouvir Gritar",
-    "quality": "480p"
-  },
-  "Ninguém Vai Te Ouvir Gritar [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9lNjFiNjk0NDE4MTk2MzgxNGNlY2M2ODQ0MzJiYjUxMi8yNDBwLzI0MHAubTN1OD9pZD00MjMzMA==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/5e877bTsl71ENZLtQ7L1lGVV9yN.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/ninguem-vai-te-ouvir-gritar/",
-    "base_name": "Ninguém Vai Te Ouvir Gritar",
-    "quality": "240p"
-  },
-  "Ninguém Vai Te Ouvir Gritar [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=ZI9DP48C",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/5e877bTsl71ENZLtQ7L1lGVV9yN.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/ninguem-vai-te-ouvir-gritar/",
-    "base_name": "Ninguém Vai Te Ouvir Gritar",
-    "quality": "WEB"
-  },
-  "Ninguém Vai Te Ouvir Gritar [Morencius]": {
-    "stream_url": "https://morencius.com/embed/endtv3kj2lmo",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/5e877bTsl71ENZLtQ7L1lGVV9yN.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/ninguem-vai-te-ouvir-gritar/",
-    "base_name": "Ninguém Vai Te Ouvir Gritar",
-    "quality": "Morencius"
-  },
-  "Ninguém Vai Te Ouvir Gritar [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/4ddd871vaz80dk",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/5e877bTsl71ENZLtQ7L1lGVV9yN.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/ninguem-vai-te-ouvir-gritar/",
-    "base_name": "Ninguém Vai Te Ouvir Gritar",
-    "quality": "Mixdrop"
-  },
-  "Corpo e Desejo [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9lYjJmMGZjNzJmMzU4YTM2NjMxODI5MTNjYmNkYjMyZi83MjBwLzcyMHAubTN1OD9pZD00MjMyNg==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/f44lKTjU3An4rf8AT2b3ySUshL8.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/corpo-e-desejo/",
-    "base_name": "Corpo e Desejo",
-    "quality": "720p"
-  },
-  "Corpo e Desejo [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9lYjJmMGZjNzJmMzU4YTM2NjMxODI5MTNjYmNkYjMyZi80ODBwLzQ4MHAubTN1OD9pZD00MjMyNg==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/f44lKTjU3An4rf8AT2b3ySUshL8.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/corpo-e-desejo/",
-    "base_name": "Corpo e Desejo",
-    "quality": "480p"
-  },
-  "Corpo e Desejo [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC9lYjJmMGZjNzJmMzU4YTM2NjMxODI5MTNjYmNkYjMyZi8yNDBwLzI0MHAubTN1OD9pZD00MjMyNg==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/f44lKTjU3An4rf8AT2b3ySUshL8.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/corpo-e-desejo/",
-    "base_name": "Corpo e Desejo",
-    "quality": "240p"
-  },
-  "Corpo e Desejo [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=0SQUW6NK",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/f44lKTjU3An4rf8AT2b3ySUshL8.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/corpo-e-desejo/",
-    "base_name": "Corpo e Desejo",
-    "quality": "WEB"
-  },
-  "Corpo e Desejo [Morencius]": {
-    "stream_url": "https://morencius.com/embed/s0iiuzkx2c3m",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/f44lKTjU3An4rf8AT2b3ySUshL8.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/corpo-e-desejo/",
-    "base_name": "Corpo e Desejo",
-    "quality": "Morencius"
-  },
-  "Corpo e Desejo [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/7kkk80kvavm98x",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/f44lKTjU3An4rf8AT2b3ySUshL8.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/corpo-e-desejo/",
-    "base_name": "Corpo e Desejo",
     "quality": "Mixdrop"
   },
   "Russell Brand: Um Segredo Nada Secreto [720p]": {
@@ -815,220 +639,44 @@
     "base_name": "Russell Brand: Um Segredo Nada Secreto",
     "quality": "Mixdrop"
   },
-  "A Família Radical em Clima de Natal [720p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC81ODk4Yjk1ZjQxNGM4NTI2OTEzN2QzYWVkMDliNzM5MS83MjBwLzcyMHAubTN1OD9pZD00MjMyNw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+  "Um Natal para Recomeçar [720p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjVmYTdmNzYxMDRhYWVjYWY2ZGE0ODQ4Y2UxNDkxMC83MjBwLzcyMHAubTN1OD9pZD00MjMzNw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-familia-radical-em-clima-de-natal/",
-    "base_name": "A Família Radical em Clima de Natal",
+    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
+    "base_name": "Um Natal para Recomeçar",
     "quality": "720p"
   },
-  "A Família Radical em Clima de Natal [480p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC81ODk4Yjk1ZjQxNGM4NTI2OTEzN2QzYWVkMDliNzM5MS80ODBwLzQ4MHAubTN1OD9pZD00MjMyNw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+  "Um Natal para Recomeçar [480p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjVmYTdmNzYxMDRhYWVjYWY2ZGE0ODQ4Y2UxNDkxMC80ODBwLzQ4MHAubTN1OD9pZD00MjMzNw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-familia-radical-em-clima-de-natal/",
-    "base_name": "A Família Radical em Clima de Natal",
+    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
+    "base_name": "Um Natal para Recomeçar",
     "quality": "480p"
   },
-  "A Família Radical em Clima de Natal [240p]": {
-    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC81ODk4Yjk1ZjQxNGM4NTI2OTEzN2QzYWVkMDliNzM5MS8yNDBwLzI0MHAubTN1OD9pZD00MjMyNw==",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+  "Um Natal para Recomeçar [240p]": {
+    "stream_url": "https://watch.brstream.cc/stream/bTN1OC8xMC80YjVmYTdmNzYxMDRhYWVjYWY2ZGE0ODQ4Y2UxNDkxMC8yNDBwLzI0MHAubTN1OD9pZD00MjMzNw==",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-familia-radical-em-clima-de-natal/",
-    "base_name": "A Família Radical em Clima de Natal",
+    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
+    "base_name": "Um Natal para Recomeçar",
     "quality": "240p"
   },
-  "A Família Radical em Clima de Natal [WEB]": {
-    "stream_url": "https://watch.brstream.cc/watch?v=XCI6SQ02",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+  "Um Natal para Recomeçar [WEB]": {
+    "stream_url": "https://watch.brstream.cc/watch?v=HFI3J0CV",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-familia-radical-em-clima-de-natal/",
-    "base_name": "A Família Radical em Clima de Natal",
+    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
+    "base_name": "Um Natal para Recomeçar",
     "quality": "WEB"
   },
-  "A Família Radical em Clima de Natal [Morencius]": {
-    "stream_url": "https://morencius.com/embed/cbv36e3vpdxp",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+  "Um Natal para Recomeçar [Mixdrop]": {
+    "stream_url": "https://mixdrop.top/e/wlllo066hd7v7q",
+    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/iYp2s2PVHypgEDF82gLHcs6a4bJ.jpg",
     "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-familia-radical-em-clima-de-natal/",
-    "base_name": "A Família Radical em Clima de Natal",
-    "quality": "Morencius"
-  },
-  "A Família Radical em Clima de Natal [Mixdrop]": {
-    "stream_url": "https://mixdrop.top/e/nlll4ml1agqe33",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-familia-radical-em-clima-de-natal/",
-    "base_name": "A Família Radical em Clima de Natal",
+    "page_url": "https://comandoplay.tv/um-natal-para-recomecar/",
+    "base_name": "Um Natal para Recomeçar",
     "quality": "Mixdrop"
-  },
-  "O Anel Amaldiçoado": {
-    "stream_url": "https://streamtape.com/v/yoRe9zb2m1u1X0Z/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/7HKgVo8jBISdqxtn4h9CnEgFrKh.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/o-anel-amaldicoado/",
-    "base_name": "O Anel Amaldiçoado",
-    "quality": "auto"
-  },
-  "Master Kid – O Despertar de um Herói": {
-    "stream_url": "https://streamtape.com/v/bkYPa63eyrtPwBK/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/pxl3gQG1BebbA8GhcJXAvwuipgj.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/master-kid-o-despertar-de-um-heroi/",
-    "base_name": "Master Kid – O Despertar de um Herói",
-    "quality": "auto"
-  },
-  "A Magia de Sonhar": {
-    "stream_url": "https://streamtape.com/v/b1Og6Q6AxqcP8dp/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/m0kNfI6RnLzoH2e7l2dButHKF9T.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/a-magia-de-sonhar/",
-    "base_name": "A Magia de Sonhar",
-    "quality": "auto"
-  },
-  "Crazy Racing": {
-    "stream_url": "https://streamtape.com/v/8JrkDmYMGWcogdP/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/i99kjvBWWwH1qtUDt3TBIFz6gAz.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/crazy-racing/",
-    "base_name": "Crazy Racing",
-    "quality": "auto"
-  },
-  "Ciclo": {
-    "stream_url": "https://streamtape.com/v/MolXwLMDYxUD8D/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/bCtSbdD2KUww2BaIkQ7VRWfRri4.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/ciclo/",
-    "base_name": "Ciclo",
-    "quality": "auto"
-  },
-  "And Mrs": {
-    "stream_url": "https://streamtape.com/v/OAYVo17vp1seYQ/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/d0EsPcoUhQ4YVPk4Kn6vhXTiTGU.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/and-mrs/",
-    "base_name": "And Mrs",
-    "quality": "auto"
-  },
-  "O Pequeno Tom": {
-    "stream_url": "https://streamtape.com/v/4o7MVGPl6LCKvMA/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/d5MDAU6tjHGMWWU971r4v4Kjm1E.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/o-pequeno-tom/",
-    "base_name": "O Pequeno Tom",
-    "quality": "auto"
-  },
-  "Uma e Haggen: Mitos": {
-    "stream_url": "https://streamtape.com/v/jvqW74RJGXIzrvQ/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/mtAL32HHIfdRhfl8RIlldlU5k7N.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/uma-e-haggen-mitos/",
-    "base_name": "Uma e Haggen: Mitos",
-    "quality": "auto"
-  },
-  "Sparkle: Um Conto Mágico": {
-    "stream_url": "https://streamtape.com/v/j6BM6QJlqDHzV9D/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/A7DeU9jey3EGGF7XRlu7VCMwbH4.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/sparkle-um-conto-magico/",
-    "base_name": "Sparkle: Um Conto Mágico",
-    "quality": "auto"
-  },
-  "Agreste": {
-    "stream_url": "https://streamtape.com/v/BvybgwVVO7F9Rq/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/vU6FGtuTdsPh4V4jc75LPpiPKCJ.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/agreste/",
-    "base_name": "Agreste",
-    "quality": "auto"
-  },
-  "Uma Paixão no Natal": {
-    "stream_url": "https://streamtape.com/v/GergozoM9rs1Kr0/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/gL1rxXHD1igT15kw1WBnit55er0.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/uma-paixao-no-natal/",
-    "base_name": "Uma Paixão no Natal",
-    "quality": "auto"
-  },
-  "Os Segredos da Comuna": {
-    "stream_url": "https://streamtape.com/v/y2k0rJwdqGh166d/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/gOb2CuvyuexykXkdE2KPiQ7DCXf.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/os-segredos-da-comuna/",
-    "base_name": "Os Segredos da Comuna",
-    "quality": "auto"
-  },
-  "O Senhor dos Anéis: A Guerra dos Rohirrim": {
-    "stream_url": "https://streamtape.com/v/L1mxqXwm6bS6ke/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/kSoGbVpd1CMBE9sb33Yp7NpgQgd.jpg",
-    "group": "CAM",
-    "page_url": "https://comandoplay.tv/o-senhor-dos-aneis-a-guerra-dos-rohirrim/",
-    "base_name": "O Senhor dos Anéis: A Guerra dos Rohirrim",
-    "quality": "auto"
-  },
-  "Violet no Mundo da Fantasia": {
-    "stream_url": "https://streamtape.com/v/dRRyJXpzKBikk4x/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/deoxTZeVAULpVvbbxrNxAcyHAkk.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/violet-no-mundo-da-fantasia/",
-    "base_name": "Violet no Mundo da Fantasia",
-    "quality": "auto"
-  },
-  "How to Have Sex": {
-    "stream_url": "https://streamtape.com/v/Q24MMxpQRvF0Xlv/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/rafwrzslLb203hQFIU8s0yRk0Qy.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/how-to-have-sex/",
-    "base_name": "How to Have Sex",
-    "quality": "auto"
-  },
-  "Wallace & Gromit – Avengança": {
-    "stream_url": "https://streamtape.com/v/mkL1x1ll8Oubbbx/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/lD6b0UkdviQw9N3LpSDqAOQKu8i.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/wallace-gromit-avenganca/",
-    "base_name": "Wallace & Gromit – Avengança",
-    "quality": "auto"
-  },
-  "Não Sei o Que Fizemos na Noite Passada": {
-    "stream_url": "https://streamtape.com/v/ygqkOgV86jUoD9/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/pJBhU5idnpKSmpm6KdFAliMdZiN.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/nao-sei-o-que-fizemos-na-noite-passada/",
-    "base_name": "Não Sei o Que Fizemos na Noite Passada",
-    "quality": "auto"
-  },
-  "Umjolo: Entre Dois Amores": {
-    "stream_url": "https://streamtape.com/v/1z9Odrx4Q2iej1P/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/4URD9AIqiuYkrvP9fFC5QiXIR6t.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/umjolo-entre-dois-amores/",
-    "base_name": "Umjolo: Entre Dois Amores",
-    "quality": "auto"
-  },
-  "Pássaro Branco: Uma História de Extraordinário": {
-    "stream_url": "https://streamtape.com/v/mg9lrW3LV2IbZmX/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/yvxcgUpMrHEL4Ng5pJ9lpUGwnHK.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/passaro-branco-uma-historia-de-extraordinario/",
-    "base_name": "Pássaro Branco: Uma História de Extraordinário",
-    "quality": "auto"
-  },
-  "Número 24": {
-    "stream_url": "https://streamtape.com/v/o9A2WZVDoaFJgGM/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/se1fVbLhBgRhjPQWSid6yUOl3Hr.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/numero-24/",
-    "base_name": "Número 24",
-    "quality": "auto"
-  },
-  "Herege: Heretic": {
-    "stream_url": "https://streamtape.com/v/4wlRQrW8yJSO22/",
-    "logo": "https://image.tmdb.org/t/p/w220_and_h330_face/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg",
-    "group": "WEB-DL",
-    "page_url": "https://comandoplay.tv/herege-heretic/",
-    "base_name": "Herege: Heretic",
-    "quality": "auto"
   }
 }
